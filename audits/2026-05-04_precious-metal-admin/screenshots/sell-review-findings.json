@@ -1,0 +1,3 @@
+[
+  {"number": 20, "severity": "medium", "x": 320, "y": 200, "label": "Buy/Sell field-order inversion + label mismatch ('Investment amount' vs 'Market value')"}
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "number": 20,
+    "severity": "medium",
+    "x": 1200,
+    "y": 500,
+    "label": "Large whitespace, no context for dual accounts"
+  }
+]

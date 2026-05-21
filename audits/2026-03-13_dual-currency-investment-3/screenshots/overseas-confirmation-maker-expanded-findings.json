@@ -1,0 +1,16 @@
+[
+  {
+    "number": 19,
+    "severity": "medium",
+    "x": 2600,
+    "y": 4400,
+    "label": "Place Another as primary CTA"
+  },
+  {
+    "number": 21,
+    "severity": "low",
+    "x": 1600,
+    "y": 2200,
+    "label": "Info overload on confirmation"
+  }
+]

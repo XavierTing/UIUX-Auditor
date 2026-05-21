@@ -1,0 +1,6 @@
+[
+  {"number": 17, "severity": "medium", "x": 300, "y": 600, "label": "Empty-state primary CTA is a blue text link, not a button"},
+  {"number": 10, "severity": "high",   "x": 180, "y": 250, "label": "'Indicative' used in four different ways without inline definition"},
+  {"number": 12, "severity": "high",   "x": 690, "y": 60,  "label": "Tasks and Statuses pill — content undocumented in deck"},
+  {"number": 16, "severity": "high",   "x": 180, "y": 880, "label": "FAQ (fees, risks) below the fold; user clicks Trade before seeing fees"}
+]

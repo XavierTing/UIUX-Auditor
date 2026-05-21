@@ -1,0 +1,5 @@
+[
+  {"number": 1, "severity": "high", "x": 578, "y": 14, "label": "Button height 36px below 44px WCAG minimum"},
+  {"number": 6, "severity": "medium", "x": 640, "y": 1370, "label": "No footer — no Help, Terms, Privacy, regulatory links"},
+  {"number": 13, "severity": "low", "x": 32, "y": 97, "label": "No responsive font scaling at breakpoints"}
+]

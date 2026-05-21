@@ -1,0 +1,9 @@
+[
+  {"number": 2, "severity": "critical", "x": 470, "y": 260, "label": "Scenario B no USD equiv"},
+  {"number": 3, "severity": "critical", "x": 490, "y": 175, "label": "Green/red bias"},
+  {"number": 6, "severity": "high", "x": 100, "y": 380, "label": "Strike price unexplained"},
+  {"number": 7, "severity": "high", "x": 255, "y": 380, "label": "Yield dominates risk"},
+  {"number": 9, "severity": "high", "x": 255, "y": 420, "label": "Annualized misleading"},
+  {"number": 13, "severity": "high", "x": 100, "y": 175, "label": "$0,000.00 bug"},
+  {"number": 15, "severity": "medium", "x": 350, "y": 55, "label": "No step indicator"}
+]

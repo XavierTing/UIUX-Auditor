@@ -1,0 +1,5 @@
+[
+  {"number": 4, "severity": "critical", "x": 50, "y": 770, "label": "No risk acknowledgment"},
+  {"number": 17, "severity": "medium", "x": 180, "y": 340, "label": "Inconsistent terminology"},
+  {"number": 20, "severity": "medium", "x": 430, "y": 360, "label": "Visual treatment changes"}
+]

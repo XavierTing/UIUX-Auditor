@@ -1,0 +1,5 @@
+[
+  {"number": 5,  "severity": "critical", "x": 320, "y": 180, "label": "Indicative price at form-fill is never reconciled with executed fill price"},
+  {"number": 6,  "severity": "critical", "x": 320, "y": 540, "label": "'Terms and Conditions' referenced but not hyperlinked"},
+  {"number": 18, "severity": "medium",   "x": 800, "y": 620, "label": "No 2FA / SCA between Review and order placement"}
+]

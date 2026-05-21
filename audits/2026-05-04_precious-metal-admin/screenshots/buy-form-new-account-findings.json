@@ -1,0 +1,6 @@
+[
+  {"number": 22, "severity": "medium",   "x": 460, "y": 110, "label": "Nav label inconsistent: 'FX and Treasury' here vs 'FX and Investment' elsewhere"},
+  {"number": 8,  "severity": "high",     "x": 600, "y": 200, "label": "New-account-on-first-buy fact buried inside the Credit account block"},
+  {"number": 1,  "severity": "critical", "x": 700, "y": 470, "label": "CMS placeholder [Precious Metal Account] leaks as literal copy"},
+  {"number": 15, "severity": "high",     "x": 700, "y": 580, "label": "Buy form has no insufficient-funds warning (Sell has insufficient-holdings)"}
+]

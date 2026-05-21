@@ -1,0 +1,9 @@
+[
+  {"number": 2, "severity": "critical", "x": 50, "y": 100, "label": "No risk warning in flow"},
+  {"number": 3, "severity": "critical", "x": 680, "y": 350, "label": "Scenario B hides loss"},
+  {"number": 8, "severity": "high", "x": 680, "y": 190, "label": "Yield 6.50% p.a. misleading"},
+  {"number": 10, "severity": "high", "x": 130, "y": 530, "label": "Strike price no guidance"},
+  {"number": 9, "severity": "high", "x": 350, "y": 30, "label": "No step indicator"},
+  {"number": 11, "severity": "medium", "x": 130, "y": 230, "label": "Currency defaults unclear"},
+  {"number": 18, "severity": "medium", "x": 130, "y": 700, "label": "Date label inconsistency"}
+]

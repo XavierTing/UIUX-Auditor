@@ -1,0 +1,13 @@
+[
+  {"number": 2, "severity": "high", "x": 40, "y": 155, "label": "green-600 text on white fails WCAG AA at 3.30:1"},
+  {"number": 3, "severity": "high", "x": 730, "y": 173, "label": "Tooltip icons too small (14px) and low contrast (2.54:1)"},
+  {"number": 4, "severity": "high", "x": 870, "y": 291, "label": "Currency selector shows all 5 currencies upfront"},
+  {"number": 1, "severity": "high", "x": 680, "y": 129, "label": "Button heights 36px below 44px WCAG minimum"},
+  {"number": 5, "severity": "medium", "x": 680, "y": 92, "label": "No first-trade walkthrough banner for novices"},
+  {"number": 8, "severity": "medium", "x": 680, "y": 580, "label": "Sell validation errors appear as auto-dismissing toasts"},
+  {"number": 9, "severity": "medium", "x": 730, "y": 220, "label": "Limit price field has no guidance on pricing"},
+  {"number": 10, "severity": "medium", "x": 355, "y": 92, "label": "Price refreshes silently every 5s with no indicator"},
+  {"number": 11, "severity": "low", "x": 680, "y": 380, "label": "Account dropdown shows full account numbers"},
+  {"number": 12, "severity": "low", "x": 280, "y": 280, "label": "Chart time buttons use abbreviations"},
+  {"number": 15, "severity": "low", "x": 680, "y": 555, "label": "Minimum quantity notice at bottom, easy to miss"}
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "number": 18,
+    "severity": "medium",
+    "x": 600,
+    "y": 600,
+    "label": "Expiring soon badge uses alarming red colour"
+  },
+  {
+    "number": 23,
+    "severity": "low",
+    "x": 800,
+    "y": 900,
+    "label": "Table packs 7 columns, may need scrolling"
+  }
+]

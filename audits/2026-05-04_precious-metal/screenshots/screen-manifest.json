@@ -1,0 +1,31 @@
+{
+  "source": "Figma",
+  "file_key": "pJuwdSGBCJvVtx6i77ytzM",
+  "file_name": "Precious Metal",
+  "root_section_id": "396:26081",
+  "root_section_name": "Precious Metals",
+  "platform": "Web Desktop",
+  "frame_dimensions": "1600 px wide (canvas), exported at scale ~0.64 (1024 px wide PNGs); email frames 702 px wide native",
+  "screens": [
+    {"slug": "pre-invest-landing", "node_id": "357:59542", "bucket": "Pre-Investment Landing", "role": "Market overview, Gold (XAU) indicative price, holdings, entry to Buy/Sell"},
+    {"slug": "buy-form-empty", "node_id": "338:46477", "bucket": "Invest > Buy", "role": "Buy order form, empty (Quantity to Buy 0.00)"},
+    {"slug": "buy-form-filled", "node_id": "338:47228", "bucket": "Invest > Buy", "role": "Buy order form, filled (Quantity 5.00, funding account selected)"},
+    {"slug": "buy-review", "node_id": "338:47622", "bucket": "Invest > Buy", "role": "Buy review (Buy chip, FX rate disclosed)"},
+    {"slug": "buy-acknowledgement", "node_id": "338:47842", "bucket": "Invest > Buy", "role": "Buy acknowledgement (expanded details)"},
+    {"slug": "buy-email-confirmation", "node_id": "353:57675", "bucket": "Invest > Buy", "role": "Email confirmation template (Buy)"},
+    {"slug": "sell-form-empty", "node_id": "338:46665", "bucket": "Invest > Sell", "role": "Sell order form, empty"},
+    {"slug": "sell-form-filled", "node_id": "338:46853", "bucket": "Invest > Sell", "role": "Sell order form, filled (Quantity 5.00)"},
+    {"slug": "sell-review", "node_id": "338:47732", "bucket": "Invest > Sell", "role": "Sell review (Sell chip)"},
+    {"slug": "sell-acknowledgement", "node_id": "338:47908", "bucket": "Invest > Sell", "role": "Sell acknowledgement (expanded details)"},
+    {"slug": "sell-email-confirmation", "node_id": "353:57763", "bucket": "Invest > Sell", "role": "Email confirmation template (Sell)"},
+    {"slug": "post-invest-landing", "node_id": "338:46068", "bucket": "Post-Investment Landing", "role": "Same shell as pre-invest landing plus a Recent Orders block"},
+    {"slug": "order-history-dashboard", "node_id": "357:59948", "bucket": "Post-Investment Landing", "role": "Order History dashboard (View all Buy and Sell orders)"},
+    {"slug": "price-alert-set-target", "node_id": "370:69223", "bucket": "Price Alert", "role": "Set Target Price form"}
+  ],
+  "skipped_near_duplicates": [
+    {"node_id": "338:47044", "reason": "Buy form variant — partial state, near-dup of buy-form-empty"},
+    {"node_id": "338:47422", "reason": "Buy form variant — alt filled state, near-dup of buy-form-filled"},
+    {"node_id": "338:47974", "reason": "Buy acknowledgement, collapsed — same content as expanded modulo accordion"},
+    {"node_id": "338:48014", "reason": "Sell acknowledgement, collapsed — same content as expanded modulo accordion"}
+  ]
+}

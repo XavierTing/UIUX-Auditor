@@ -1,0 +1,6 @@
+[
+  {"number": 2, "severity": "critical", "x": 50, "y": 770, "label": "No risk acknowledgment"},
+  {"number": 4, "severity": "critical", "x": 400, "y": 440, "label": "Contrast failures"},
+  {"number": 16, "severity": "medium", "x": 50, "y": 75, "label": "REVIEW label disconnected"},
+  {"number": 20, "severity": "medium", "x": 430, "y": 130, "label": "No inline validation"}
+]

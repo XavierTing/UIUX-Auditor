@@ -1,0 +1,23 @@
+[
+  {
+    "number": 1,
+    "severity": "critical",
+    "x": 800,
+    "y": 200,
+    "label": "No risk disclaimer in hero banner"
+  },
+  {
+    "number": 3,
+    "severity": "critical",
+    "x": 200,
+    "y": 100,
+    "label": "No suitability assessment / CKA gate"
+  },
+  {
+    "number": 19,
+    "severity": "medium",
+    "x": 800,
+    "y": 1400,
+    "label": "Value props lack risk context"
+  }
+]

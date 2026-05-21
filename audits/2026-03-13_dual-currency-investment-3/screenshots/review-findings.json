@@ -1,0 +1,16 @@
+[
+  {
+    "number": 7,
+    "severity": "high",
+    "x": 2400,
+    "y": 4300,
+    "label": "No explicit T&C consent checkbox"
+  },
+  {
+    "number": 14,
+    "severity": "medium",
+    "x": 1600,
+    "y": 4450,
+    "label": "Submit far below fold"
+  }
+]

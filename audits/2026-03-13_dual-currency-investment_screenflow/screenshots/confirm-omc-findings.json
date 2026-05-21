@@ -1,0 +1,4 @@
+[
+  {"number": 12, "severity": "high", "x": 400, "y": 60, "label": "Wrong nav config"},
+  {"number": 12, "severity": "high", "x": 400, "y": 350, "label": "Dead end — no context"}
+]

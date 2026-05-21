@@ -1,0 +1,14 @@
+[
+  {"number": 1, "severity": "high", "x": 888, "y": 338, "label": "Market/Limit buttons 36px below 44px WCAG minimum"},
+  {"number": 2, "severity": "high", "x": 884, "y": 240, "label": "White on green-600 Buy button fails AA at 3.22:1"},
+  {"number": 3, "severity": "high", "x": 884, "y": 909, "label": "White on amber-600 Review button fails AA at 3.19:1"},
+  {"number": 4, "severity": "high", "x": 970, "y": 312, "label": "Tooltip icons 14px, gray-400 fails contrast at 2.60:1"},
+  {"number": 7, "severity": "medium", "x": 884, "y": 880, "label": "Validation errors only in auto-dismissing toasts"},
+  {"number": 8, "severity": "medium", "x": 355, "y": 197, "label": "Price refreshes silently every 5s — no indicator"},
+  {"number": 9, "severity": "medium", "x": 884, "y": 424, "label": "Limit price field has no market price guidance"},
+  {"number": 10, "severity": "medium", "x": 1155, "y": 447, "label": "Currency selector shows all 5 currencies upfront"},
+  {"number": 11, "severity": "medium", "x": 578, "y": 14, "label": "Trade dropdown lacks aria-expanded and keyboard nav"},
+  {"number": 12, "severity": "medium", "x": 400, "y": 550, "label": "Chart SVG has no aria-label for screen readers"},
+  {"number": 15, "severity": "low", "x": 596, "y": 458, "label": "Chart time buttons use abbreviations (1H, 1D, 1W...)"},
+  {"number": 16, "severity": "low", "x": 884, "y": 945, "label": "Minimum quantity notice at bottom, easy to miss"}
+]

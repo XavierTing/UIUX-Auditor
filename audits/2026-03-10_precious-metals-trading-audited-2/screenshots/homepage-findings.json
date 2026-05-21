@@ -1,0 +1,6 @@
+[
+  {"number": 5, "severity": "medium", "x": 60, "y": 108, "label": "Amber-500 icon gradients and Live indicator fail contrast at 2.15:1"},
+  {"number": 6, "severity": "medium", "x": 640, "y": 1370, "label": "No footer — no Help, Terms, Privacy, regulatory links"},
+  {"number": 17, "severity": "low", "x": 60, "y": 93, "label": "MOST POPULAR badge amber-500 on white fails contrast 2.15:1"},
+  {"number": 13, "severity": "low", "x": 530, "y": 14, "label": "Demo Account shows full account number"}
+]

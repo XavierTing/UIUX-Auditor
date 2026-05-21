@@ -1,0 +1,8 @@
+[
+  {"number": 10, "severity": "high", "x": 400, "y": 390, "label": "Actions buried in table"},
+  {"number": 8, "severity": "high", "x": 500, "y": 390, "label": "Green overloaded"},
+  {"number": 14, "severity": "high", "x": 250, "y": 55, "label": "Nav inconsistency"},
+  {"number": 19, "severity": "medium", "x": 250, "y": 140, "label": "Cross-currency KPI unclear"},
+  {"number": 21, "severity": "medium", "x": 370, "y": 260, "label": "Status badges inconsistent"},
+  {"number": 22, "severity": "medium", "x": 370, "y": 295, "label": "No expiry context"}
+]

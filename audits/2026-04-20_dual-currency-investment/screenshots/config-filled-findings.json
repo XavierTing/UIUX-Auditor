@@ -1,0 +1,37 @@
+[
+  {
+    "number": 5,
+    "severity": "high",
+    "x": 1400,
+    "y": 600,
+    "label": "Only annualized yield shown, no period return"
+  },
+  {
+    "number": 6,
+    "severity": "high",
+    "x": 1400,
+    "y": 500,
+    "label": "Strike price risk tradeoff unexplained"
+  },
+  {
+    "number": 9,
+    "severity": "high",
+    "x": 800,
+    "y": 1600,
+    "label": "Green/orange colour bias in scenario panels"
+  },
+  {
+    "number": 12,
+    "severity": "medium",
+    "x": 400,
+    "y": 350,
+    "label": "Indicative qualifier unexplained"
+  },
+  {
+    "number": 24,
+    "severity": "low",
+    "x": 1400,
+    "y": 650,
+    "label": "p.a. abbreviation never expanded"
+  }
+]

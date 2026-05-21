@@ -1,0 +1,30 @@
+[
+  {
+    "number": 2,
+    "severity": "critical",
+    "x": 800,
+    "y": 80,
+    "label": "No risk disclosure in investment flow"
+  },
+  {
+    "number": 7,
+    "severity": "high",
+    "x": 400,
+    "y": 800,
+    "label": "Placeholder /bin/zsh,000.00 in min amount"
+  },
+  {
+    "number": 8,
+    "severity": "high",
+    "x": 1400,
+    "y": 300,
+    "label": "Financial jargon without tooltips"
+  },
+  {
+    "number": 11,
+    "severity": "high",
+    "x": 800,
+    "y": 50,
+    "label": "No step progress indicator"
+  }
+]

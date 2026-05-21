@@ -1,0 +1,16 @@
+[
+  {
+    "number": 8,
+    "severity": "high",
+    "x": 1000,
+    "y": 170,
+    "label": "Nav says FX and Treasury"
+  },
+  {
+    "number": 4,
+    "severity": "critical",
+    "x": 1600,
+    "y": 2900,
+    "label": "Settlement amount discrepancy"
+  }
+]

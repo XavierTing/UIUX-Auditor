@@ -1,0 +1,16 @@
+[
+  {
+    "number": 16,
+    "severity": "medium",
+    "x": 800,
+    "y": 400,
+    "label": "Expanded confirmation repeats all review info"
+  },
+  {
+    "number": 25,
+    "severity": "low",
+    "x": 800,
+    "y": 2200,
+    "label": "T+2 settlement gap unexplained"
+  }
+]

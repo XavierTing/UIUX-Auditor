@@ -1,0 +1,4 @@
+[
+  {"number": 5, "severity": "high", "x": 450, "y": 310, "label": "Muted text contrast fails WCAG AA at ~3.5:1"},
+  {"number": 21, "severity": "low", "x": 450, "y": 160, "label": "404-style empty state — no helpful guidance or search"}
+]

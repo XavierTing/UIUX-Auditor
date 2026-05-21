@@ -1,0 +1,4 @@
+[
+  {"number": 16, "severity": "medium", "x": 500, "y": 500, "label": "No portfolio link"},
+  {"number": 18, "severity": "medium", "x": 350, "y": 170, "label": "No parameter summary"}
+]

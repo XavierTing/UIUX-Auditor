@@ -1,0 +1,4 @@
+[
+  {"number": 16, "severity": "medium", "x": 320, "y": 56, "label": "No cross-metal comparison view — must tab between metals"},
+  {"number": 9, "severity": "high", "x": 240, "y": 530, "label": "Product CTA links to trade but no cost transparency in order flow"}
+]

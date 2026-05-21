@@ -1,0 +1,16 @@
+[
+  {
+    "number": 4,
+    "severity": "critical",
+    "x": 800,
+    "y": 2100,
+    "label": "No explicit T&C consent checkbox"
+  },
+  {
+    "number": 13,
+    "severity": "medium",
+    "x": 800,
+    "y": 2250,
+    "label": "No sticky CTA bar, requires excessive scrolling"
+  }
+]

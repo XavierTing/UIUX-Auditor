@@ -1,0 +1,2025 @@
+[
+  {
+    "route": "/",
+    "filename": "homepage.png",
+    "filepath": "/Users/xavierting/Desktop/Xavier Agentic AI/UIUX Auditor/audits/2026-03-09_precious-metals-trading/screenshots/homepage.png",
+    "dimensions": {
+      "scrollWidth": 1280,
+      "scrollHeight": 1349,
+      "viewportWidth": 1280,
+      "viewportHeight": 1080
+    },
+    "elements": {
+      "nav": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "footer": {
+        "x": 0,
+        "y": 1280,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      },
+      "main": {
+        "x": 0,
+        "y": 65,
+        "width": 1280,
+        "height": 1215,
+        "text": "Market OverviewReal-time precious metals pricing in SGDLiveAuGoldXAU+2.24%$6,556"
+      },
+      "h1": {
+        "x": 32,
+        "y": 97,
+        "width": 264,
+        "height": 32,
+        "text": "Market Overview"
+      },
+      "h2[0]": {
+        "x": 32,
+        "y": 569,
+        "width": 217,
+        "height": 28,
+        "text": "Portfolio Holdings"
+      },
+      "h2[1]": {
+        "x": 32,
+        "y": 1076,
+        "width": 169,
+        "height": 28,
+        "text": "Recent Orders"
+      },
+      "h3[0]": {
+        "x": 117,
+        "y": 205,
+        "width": 39,
+        "height": 27,
+        "text": "Gold"
+      },
+      "h3[1]": {
+        "x": 426,
+        "y": 205,
+        "width": 47,
+        "height": 27,
+        "text": "Silver"
+      },
+      "h3[2]": {
+        "x": 735,
+        "y": 205,
+        "width": 74,
+        "height": 27,
+        "text": "Platinum"
+      },
+      "h3[3]": {
+        "x": 1044,
+        "y": 205,
+        "width": 82,
+        "height": 27,
+        "text": "Palladium"
+      },
+      "h3[4]": {
+        "x": 57,
+        "y": 810,
+        "width": 1166,
+        "height": 27,
+        "text": "Holdings Detail"
+      },
+      "[class*=\"order\"][0]": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "[class*=\"order\"][1]": {
+        "x": 1179,
+        "y": 108,
+        "width": 69,
+        "height": 34,
+        "text": "Live"
+      },
+      "[class*=\"order\"][2]": {
+        "x": 32,
+        "y": 177,
+        "width": 289,
+        "height": 311,
+        "text": "AuGoldXAU+2.24%$6,556.62+$146.87 (24h)Bid$6,523.84Ask$6,589.4124h High$6,659.172"
+      },
+      "[class*=\"order\"][3]": {
+        "x": 57,
+        "y": 334,
+        "width": 239,
+        "height": 97,
+        "text": "Bid$6,523.84Ask$6,589.4124h High$6,659.1724h Low$6,498.67"
+      },
+      "[class*=\"order\"][4]": {
+        "x": 341,
+        "y": 177,
+        "width": 289,
+        "height": 311,
+        "text": "AgSilverXAG+0.41%$106.18+$0.44 (24h)Bid$105.65Ask$106.7124h High$109.0024h Low$1"
+      },
+      "[class*=\"order\"][5]": {
+        "x": 366,
+        "y": 334,
+        "width": 239,
+        "height": 97,
+        "text": "Bid$105.65Ask$106.7124h High$109.0024h Low$105.59"
+      },
+      "[class*=\"order\"][6]": {
+        "x": 650,
+        "y": 177,
+        "width": 289,
+        "height": 311,
+        "text": "PtPlatinumXPT-1.84%$2,785.67-$51.30 (24h)Bid$2,771.75Ask$2,799.6024h High$2,786."
+      },
+      "[class*=\"order\"][7]": {
+        "x": 675,
+        "y": 334,
+        "width": 239,
+        "height": 97,
+        "text": "Bid$2,771.75Ask$2,799.6024h High$2,786.7024h Low$2,725.99"
+      },
+      "[class*=\"order\"][8]": {
+        "x": 959,
+        "y": 177,
+        "width": 289,
+        "height": 311,
+        "text": "PdPalladiumXPD+0.41%$2,142.62+$8.70 (24h)Bid$2,131.90Ask$2,153.3324h High$2,199."
+      },
+      "[class*=\"order\"][9]": {
+        "x": 984,
+        "y": 334,
+        "width": 239,
+        "height": 97,
+        "text": "Bid$2,131.90Ask$2,153.3324h High$2,199.5124h Low$2,102.01"
+      },
+      "[class*=\"order\"][10]": {
+        "x": 32,
+        "y": 528,
+        "width": 1216,
+        "height": 1,
+        "text": ""
+      },
+      "[class*=\"order\"][11]": {
+        "x": 32,
+        "y": 635,
+        "width": 392,
+        "height": 134,
+        "text": "Total Market Value$0.00"
+      },
+      "[class*=\"order\"][12]": {
+        "x": 444,
+        "y": 635,
+        "width": 392,
+        "height": 134,
+        "text": "Total Cost Basis$0.00"
+      },
+      "[class*=\"order\"][13]": {
+        "x": 856,
+        "y": 635,
+        "width": 392,
+        "height": 134,
+        "text": "Unrealised P&L+$0.00+0.00%"
+      },
+      "[class*=\"order\"][14]": {
+        "x": 32,
+        "y": 793,
+        "width": 1216,
+        "height": 202,
+        "text": "Holdings DetailNo holdings yet.Start trading to build your portfolio"
+      },
+      "[class*=\"order\"][15]": {
+        "x": 33,
+        "y": 794,
+        "width": 1214,
+        "height": 60,
+        "text": "Holdings Detail"
+      },
+      "[class*=\"order\"][16]": {
+        "x": 32,
+        "y": 1035,
+        "width": 1216,
+        "height": 1,
+        "text": ""
+      },
+      "[class*=\"order\"][17]": {
+        "x": 32,
+        "y": 1142,
+        "width": 1216,
+        "height": 106,
+        "text": "No orders yet. Start trading to see your activity here."
+      },
+      "[class*=\"order\"][18]": {
+        "x": 0,
+        "y": 1280,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      }
+    }
+  },
+  {
+    "route": "/trade/XAU",
+    "filename": "trade-xau.png",
+    "filepath": "/Users/xavierting/Desktop/Xavier Agentic AI/UIUX Auditor/audits/2026-03-09_precious-metals-trading/screenshots/trade-xau.png",
+    "dimensions": {
+      "scrollWidth": 1280,
+      "scrollHeight": 1097,
+      "viewportWidth": 1280,
+      "viewportHeight": 1080
+    },
+    "elements": {
+      "nav": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "footer": {
+        "x": 0,
+        "y": 1028,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      },
+      "main": {
+        "x": 0,
+        "y": 65,
+        "width": 1280,
+        "height": 963,
+        "text": "AuGoldAgSilverPtPlatinumPdPalladiumGold Spot Price$6,572.09+0.22%+$14.74 (24h)La"
+      },
+      "button[0]": {
+        "x": 32,
+        "y": 97,
+        "width": 95,
+        "height": 50,
+        "text": "AuGold"
+      },
+      "button[1]": {
+        "x": 135,
+        "y": 97,
+        "width": 101,
+        "height": 50,
+        "text": "AgSilver"
+      },
+      "button[2]": {
+        "x": 244,
+        "y": 97,
+        "width": 122,
+        "height": 50,
+        "text": "PtPlatinum"
+      },
+      "button[3]": {
+        "x": 373,
+        "y": 97,
+        "width": 128,
+        "height": 50,
+        "text": "PdPalladium"
+      },
+      "button[4]": {
+        "x": 596,
+        "y": 458,
+        "width": 39,
+        "height": 24,
+        "text": "1H"
+      },
+      "button[5]": {
+        "x": 639,
+        "y": 458,
+        "width": 39,
+        "height": 24,
+        "text": "1D"
+      },
+      "button[6]": {
+        "x": 682,
+        "y": 458,
+        "width": 42,
+        "height": 24,
+        "text": "1W"
+      },
+      "button[7]": {
+        "x": 727,
+        "y": 458,
+        "width": 40,
+        "height": 24,
+        "text": "1M"
+      },
+      "button[8]": {
+        "x": 772,
+        "y": 458,
+        "width": 38,
+        "height": 24,
+        "text": "1Y"
+      },
+      "button[9]": {
+        "x": 884,
+        "y": 240,
+        "width": 166,
+        "height": 48,
+        "text": "Buy"
+      },
+      "button[10]": {
+        "x": 1057,
+        "y": 240,
+        "width": 166,
+        "height": 48,
+        "text": "Sell"
+      },
+      "button[11]": {
+        "x": 884,
+        "y": 334,
+        "width": 166,
+        "height": 36,
+        "text": "Market"
+      },
+      "button[12]": {
+        "x": 1057,
+        "y": 334,
+        "width": 166,
+        "height": 36,
+        "text": "Limit"
+      },
+      "button[13]": {
+        "x": 884,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "SGD"
+      },
+      "button[14]": {
+        "x": 945,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "USD"
+      },
+      "button[15]": {
+        "x": 1006,
+        "y": 416,
+        "width": 54,
+        "height": 34,
+        "text": "EUR"
+      },
+      "button[16]": {
+        "x": 1066,
+        "y": 416,
+        "width": 56,
+        "height": 34,
+        "text": "HKD"
+      },
+      "button[17]": {
+        "x": 1128,
+        "y": 416,
+        "width": 52,
+        "height": 34,
+        "text": "JPY"
+      },
+      "button[18]": {
+        "x": 884,
+        "y": 911,
+        "width": 339,
+        "height": 36,
+        "text": "Review Buy Order"
+      },
+      "input:not([type=\"hidden\"])": {
+        "x": 884,
+        "y": 488,
+        "width": 339,
+        "height": 36,
+        "text": ""
+      },
+      "select": {
+        "x": 884,
+        "y": 634,
+        "width": 339,
+        "height": 37,
+        "text": "Current Account (501-100234-001) – $50,000.00"
+      },
+      "h2": {
+        "x": 57,
+        "y": 197,
+        "width": 283,
+        "height": 28,
+        "text": "Gold Spot Price"
+      },
+      "h3[0]": {
+        "x": 57,
+        "y": 456,
+        "width": 94,
+        "height": 27,
+        "text": "Price Chart"
+      },
+      "h3[1]": {
+        "x": 57,
+        "y": 845,
+        "width": 753,
+        "height": 27,
+        "text": "Order History"
+      },
+      "h3[2]": {
+        "x": 884,
+        "y": 197,
+        "width": 339,
+        "height": 27,
+        "text": "Place Order"
+      },
+      "[class*=\"order\"][0]": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "[class*=\"order\"][1]": {
+        "x": 32,
+        "y": 97,
+        "width": 1216,
+        "height": 51,
+        "text": "AuGoldAgSilverPtPlatinumPdPalladium"
+      },
+      "[class*=\"order\"][2]": {
+        "x": 32,
+        "y": 97,
+        "width": 95,
+        "height": 50,
+        "text": "AuGold"
+      },
+      "[class*=\"order\"][3]": {
+        "x": 135,
+        "y": 97,
+        "width": 101,
+        "height": 50,
+        "text": "AgSilver"
+      },
+      "[class*=\"order\"][4]": {
+        "x": 244,
+        "y": 97,
+        "width": 122,
+        "height": 50,
+        "text": "PtPlatinum"
+      },
+      "[class*=\"order\"][5]": {
+        "x": 373,
+        "y": 97,
+        "width": 128,
+        "height": 50,
+        "text": "PdPalladium"
+      },
+      "[class*=\"order\"][6]": {
+        "x": 32,
+        "y": 172,
+        "width": 803,
+        "height": 235,
+        "text": "Gold Spot Price$6,572.09+0.22%+$14.74 (24h)Last Updated5:54:26 pmBid$6,539.23Ask"
+      },
+      "[class*=\"order\"][7]": {
+        "x": 57,
+        "y": 317,
+        "width": 753,
+        "height": 65,
+        "text": "Bid$6,539.23Ask$6,604.95Spread$65.72(1.00%)"
+      },
+      "[class*=\"order\"][8]": {
+        "x": 32,
+        "y": 431,
+        "width": 803,
+        "height": 373,
+        "text": "Price Chart1H1D1W1M1Y$6,545.75$6,799.55"
+      },
+      "[class*=\"order\"][9]": {
+        "x": 32,
+        "y": 828,
+        "width": 803,
+        "height": 150,
+        "text": "Order HistoryNo orders for Gold yet"
+      },
+      "[class*=\"order\"][10]": {
+        "x": 33,
+        "y": 829,
+        "width": 801,
+        "height": 60,
+        "text": "Order History"
+      },
+      "[class*=\"order\"][11]": {
+        "x": 859,
+        "y": 172,
+        "width": 389,
+        "height": 824,
+        "text": "Place OrderBuySellOrder TypeMarketLimitCurrencySGDUSDEURHKDJPYAmount (SGD)Quanti"
+      },
+      "[class*=\"order\"][12]": {
+        "x": 884,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "SGD"
+      },
+      "[class*=\"order\"][13]": {
+        "x": 945,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "USD"
+      },
+      "[class*=\"order\"][14]": {
+        "x": 1006,
+        "y": 416,
+        "width": 54,
+        "height": 34,
+        "text": "EUR"
+      },
+      "[class*=\"order\"][15]": {
+        "x": 1066,
+        "y": 416,
+        "width": 56,
+        "height": 34,
+        "text": "HKD"
+      },
+      "[class*=\"order\"][16]": {
+        "x": 1128,
+        "y": 416,
+        "width": 52,
+        "height": 34,
+        "text": "JPY"
+      },
+      "[class*=\"order\"][17]": {
+        "x": 884,
+        "y": 488,
+        "width": 339,
+        "height": 36,
+        "text": ""
+      },
+      "[class*=\"order\"][18]": {
+        "x": 884,
+        "y": 634,
+        "width": 339,
+        "height": 37,
+        "text": "Current Account (501-100234-001) – $50,000.00"
+      },
+      "[class*=\"order\"][19]": {
+        "x": 884,
+        "y": 713,
+        "width": 339,
+        "height": 62,
+        "text": "Precious Metals Account – Gold(410-212232-201)"
+      },
+      "[class*=\"order\"][20]": {
+        "x": 884,
+        "y": 799,
+        "width": 339,
+        "height": 88,
+        "text": "Total$990.74At Ask price: $6,604.95/oz"
+      },
+      "[class*=\"order\"][21]": {
+        "x": 884,
+        "y": 911,
+        "width": 339,
+        "height": 36,
+        "text": "Review Buy Order"
+      },
+      "[class*=\"order\"][22]": {
+        "x": 0,
+        "y": 1028,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      }
+    }
+  },
+  {
+    "route": "/trade/XAG",
+    "filename": "trade-xag.png",
+    "filepath": "/Users/xavierting/Desktop/Xavier Agentic AI/UIUX Auditor/audits/2026-03-09_precious-metals-trading/screenshots/trade-xag.png",
+    "dimensions": {
+      "scrollWidth": 1280,
+      "scrollHeight": 1097,
+      "viewportWidth": 1280,
+      "viewportHeight": 1080
+    },
+    "elements": {
+      "nav": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "footer": {
+        "x": 0,
+        "y": 1028,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      },
+      "main": {
+        "x": 0,
+        "y": 65,
+        "width": 1280,
+        "height": 963,
+        "text": "AuGoldAgSilverPtPlatinumPdPalladiumSilver Spot Price$107.54-0.01%-$0.01 (24h)Las"
+      },
+      "button[0]": {
+        "x": 32,
+        "y": 97,
+        "width": 95,
+        "height": 50,
+        "text": "AuGold"
+      },
+      "button[1]": {
+        "x": 135,
+        "y": 97,
+        "width": 101,
+        "height": 50,
+        "text": "AgSilver"
+      },
+      "button[2]": {
+        "x": 244,
+        "y": 97,
+        "width": 122,
+        "height": 50,
+        "text": "PtPlatinum"
+      },
+      "button[3]": {
+        "x": 373,
+        "y": 97,
+        "width": 128,
+        "height": 50,
+        "text": "PdPalladium"
+      },
+      "button[4]": {
+        "x": 596,
+        "y": 458,
+        "width": 39,
+        "height": 24,
+        "text": "1H"
+      },
+      "button[5]": {
+        "x": 639,
+        "y": 458,
+        "width": 39,
+        "height": 24,
+        "text": "1D"
+      },
+      "button[6]": {
+        "x": 682,
+        "y": 458,
+        "width": 42,
+        "height": 24,
+        "text": "1W"
+      },
+      "button[7]": {
+        "x": 727,
+        "y": 458,
+        "width": 40,
+        "height": 24,
+        "text": "1M"
+      },
+      "button[8]": {
+        "x": 772,
+        "y": 458,
+        "width": 38,
+        "height": 24,
+        "text": "1Y"
+      },
+      "button[9]": {
+        "x": 884,
+        "y": 240,
+        "width": 166,
+        "height": 48,
+        "text": "Buy"
+      },
+      "button[10]": {
+        "x": 1057,
+        "y": 240,
+        "width": 166,
+        "height": 48,
+        "text": "Sell"
+      },
+      "button[11]": {
+        "x": 884,
+        "y": 334,
+        "width": 166,
+        "height": 36,
+        "text": "Market"
+      },
+      "button[12]": {
+        "x": 1057,
+        "y": 334,
+        "width": 166,
+        "height": 36,
+        "text": "Limit"
+      },
+      "button[13]": {
+        "x": 884,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "SGD"
+      },
+      "button[14]": {
+        "x": 945,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "USD"
+      },
+      "button[15]": {
+        "x": 1006,
+        "y": 416,
+        "width": 54,
+        "height": 34,
+        "text": "EUR"
+      },
+      "button[16]": {
+        "x": 1066,
+        "y": 416,
+        "width": 56,
+        "height": 34,
+        "text": "HKD"
+      },
+      "button[17]": {
+        "x": 1128,
+        "y": 416,
+        "width": 52,
+        "height": 34,
+        "text": "JPY"
+      },
+      "button[18]": {
+        "x": 884,
+        "y": 911,
+        "width": 339,
+        "height": 36,
+        "text": "Review Buy Order"
+      },
+      "input:not([type=\"hidden\"])": {
+        "x": 884,
+        "y": 488,
+        "width": 339,
+        "height": 36,
+        "text": ""
+      },
+      "select": {
+        "x": 884,
+        "y": 634,
+        "width": 339,
+        "height": 37,
+        "text": "Current Account (501-100234-001) – $50,000.00"
+      },
+      "h2": {
+        "x": 57,
+        "y": 197,
+        "width": 237,
+        "height": 28,
+        "text": "Silver Spot Price"
+      },
+      "h3[0]": {
+        "x": 57,
+        "y": 456,
+        "width": 94,
+        "height": 27,
+        "text": "Price Chart"
+      },
+      "h3[1]": {
+        "x": 57,
+        "y": 845,
+        "width": 753,
+        "height": 27,
+        "text": "Order History"
+      },
+      "h3[2]": {
+        "x": 884,
+        "y": 197,
+        "width": 339,
+        "height": 27,
+        "text": "Place Order"
+      },
+      "[class*=\"order\"][0]": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "[class*=\"order\"][1]": {
+        "x": 32,
+        "y": 97,
+        "width": 1216,
+        "height": 51,
+        "text": "AuGoldAgSilverPtPlatinumPdPalladium"
+      },
+      "[class*=\"order\"][2]": {
+        "x": 32,
+        "y": 97,
+        "width": 95,
+        "height": 50,
+        "text": "AuGold"
+      },
+      "[class*=\"order\"][3]": {
+        "x": 135,
+        "y": 97,
+        "width": 101,
+        "height": 50,
+        "text": "AgSilver"
+      },
+      "[class*=\"order\"][4]": {
+        "x": 244,
+        "y": 97,
+        "width": 122,
+        "height": 50,
+        "text": "PtPlatinum"
+      },
+      "[class*=\"order\"][5]": {
+        "x": 373,
+        "y": 97,
+        "width": 128,
+        "height": 50,
+        "text": "PdPalladium"
+      },
+      "[class*=\"order\"][6]": {
+        "x": 32,
+        "y": 172,
+        "width": 803,
+        "height": 235,
+        "text": "Silver Spot Price$107.54-0.01%-$0.01 (24h)Last Updated5:54:31 pmBid$107.00Ask$10"
+      },
+      "[class*=\"order\"][7]": {
+        "x": 57,
+        "y": 317,
+        "width": 753,
+        "height": 65,
+        "text": "Bid$107.00Ask$108.08Spread$1.08(1.00%)"
+      },
+      "[class*=\"order\"][8]": {
+        "x": 32,
+        "y": 431,
+        "width": 803,
+        "height": 373,
+        "text": "Price Chart1H1D1W1M1Y$105.97$110.39"
+      },
+      "[class*=\"order\"][9]": {
+        "x": 32,
+        "y": 828,
+        "width": 803,
+        "height": 150,
+        "text": "Order HistoryNo orders for Silver yet"
+      },
+      "[class*=\"order\"][10]": {
+        "x": 33,
+        "y": 829,
+        "width": 801,
+        "height": 60,
+        "text": "Order History"
+      },
+      "[class*=\"order\"][11]": {
+        "x": 859,
+        "y": 172,
+        "width": 389,
+        "height": 824,
+        "text": "Place OrderBuySellOrder TypeMarketLimitCurrencySGDUSDEURHKDJPYAmount (SGD)Quanti"
+      },
+      "[class*=\"order\"][12]": {
+        "x": 884,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "SGD"
+      },
+      "[class*=\"order\"][13]": {
+        "x": 945,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "USD"
+      },
+      "[class*=\"order\"][14]": {
+        "x": 1006,
+        "y": 416,
+        "width": 54,
+        "height": 34,
+        "text": "EUR"
+      },
+      "[class*=\"order\"][15]": {
+        "x": 1066,
+        "y": 416,
+        "width": 56,
+        "height": 34,
+        "text": "HKD"
+      },
+      "[class*=\"order\"][16]": {
+        "x": 1128,
+        "y": 416,
+        "width": 52,
+        "height": 34,
+        "text": "JPY"
+      },
+      "[class*=\"order\"][17]": {
+        "x": 884,
+        "y": 488,
+        "width": 339,
+        "height": 36,
+        "text": ""
+      },
+      "[class*=\"order\"][18]": {
+        "x": 884,
+        "y": 634,
+        "width": 339,
+        "height": 37,
+        "text": "Current Account (501-100234-001) – $50,000.00"
+      },
+      "[class*=\"order\"][19]": {
+        "x": 884,
+        "y": 713,
+        "width": 339,
+        "height": 62,
+        "text": "Precious Metals Account – Silver(410-212232-202)"
+      },
+      "[class*=\"order\"][20]": {
+        "x": 884,
+        "y": 799,
+        "width": 339,
+        "height": 88,
+        "text": "Total$999.74At Ask price: $108.08/oz"
+      },
+      "[class*=\"order\"][21]": {
+        "x": 884,
+        "y": 911,
+        "width": 339,
+        "height": 36,
+        "text": "Review Buy Order"
+      },
+      "[class*=\"order\"][22]": {
+        "x": 0,
+        "y": 1028,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      }
+    }
+  },
+  {
+    "route": "/trade/XPT",
+    "filename": "trade-xpt.png",
+    "filepath": "/Users/xavierting/Desktop/Xavier Agentic AI/UIUX Auditor/audits/2026-03-09_precious-metals-trading/screenshots/trade-xpt.png",
+    "dimensions": {
+      "scrollWidth": 1280,
+      "scrollHeight": 1097,
+      "viewportWidth": 1280,
+      "viewportHeight": 1080
+    },
+    "elements": {
+      "nav": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "footer": {
+        "x": 0,
+        "y": 1028,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      },
+      "main": {
+        "x": 0,
+        "y": 65,
+        "width": 1280,
+        "height": 963,
+        "text": "AuGoldAgSilverPtPlatinumPdPalladiumPlatinum Spot Price$2,759.58-0.18%-$5.09 (24h"
+      },
+      "button[0]": {
+        "x": 32,
+        "y": 97,
+        "width": 95,
+        "height": 50,
+        "text": "AuGold"
+      },
+      "button[1]": {
+        "x": 135,
+        "y": 97,
+        "width": 101,
+        "height": 50,
+        "text": "AgSilver"
+      },
+      "button[2]": {
+        "x": 244,
+        "y": 97,
+        "width": 122,
+        "height": 50,
+        "text": "PtPlatinum"
+      },
+      "button[3]": {
+        "x": 373,
+        "y": 97,
+        "width": 128,
+        "height": 50,
+        "text": "PdPalladium"
+      },
+      "button[4]": {
+        "x": 596,
+        "y": 458,
+        "width": 39,
+        "height": 24,
+        "text": "1H"
+      },
+      "button[5]": {
+        "x": 639,
+        "y": 458,
+        "width": 39,
+        "height": 24,
+        "text": "1D"
+      },
+      "button[6]": {
+        "x": 682,
+        "y": 458,
+        "width": 42,
+        "height": 24,
+        "text": "1W"
+      },
+      "button[7]": {
+        "x": 727,
+        "y": 458,
+        "width": 40,
+        "height": 24,
+        "text": "1M"
+      },
+      "button[8]": {
+        "x": 772,
+        "y": 458,
+        "width": 38,
+        "height": 24,
+        "text": "1Y"
+      },
+      "button[9]": {
+        "x": 884,
+        "y": 240,
+        "width": 166,
+        "height": 48,
+        "text": "Buy"
+      },
+      "button[10]": {
+        "x": 1057,
+        "y": 240,
+        "width": 166,
+        "height": 48,
+        "text": "Sell"
+      },
+      "button[11]": {
+        "x": 884,
+        "y": 334,
+        "width": 166,
+        "height": 36,
+        "text": "Market"
+      },
+      "button[12]": {
+        "x": 1057,
+        "y": 334,
+        "width": 166,
+        "height": 36,
+        "text": "Limit"
+      },
+      "button[13]": {
+        "x": 884,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "SGD"
+      },
+      "button[14]": {
+        "x": 945,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "USD"
+      },
+      "button[15]": {
+        "x": 1006,
+        "y": 416,
+        "width": 54,
+        "height": 34,
+        "text": "EUR"
+      },
+      "button[16]": {
+        "x": 1066,
+        "y": 416,
+        "width": 56,
+        "height": 34,
+        "text": "HKD"
+      },
+      "button[17]": {
+        "x": 1128,
+        "y": 416,
+        "width": 52,
+        "height": 34,
+        "text": "JPY"
+      },
+      "button[18]": {
+        "x": 884,
+        "y": 911,
+        "width": 339,
+        "height": 36,
+        "text": "Review Buy Order"
+      },
+      "input:not([type=\"hidden\"])": {
+        "x": 884,
+        "y": 488,
+        "width": 339,
+        "height": 36,
+        "text": ""
+      },
+      "select": {
+        "x": 884,
+        "y": 634,
+        "width": 339,
+        "height": 37,
+        "text": "Current Account (501-100234-001) – $50,000.00"
+      },
+      "h2": {
+        "x": 57,
+        "y": 197,
+        "width": 276,
+        "height": 28,
+        "text": "Platinum Spot Price"
+      },
+      "h3[0]": {
+        "x": 57,
+        "y": 456,
+        "width": 94,
+        "height": 27,
+        "text": "Price Chart"
+      },
+      "h3[1]": {
+        "x": 57,
+        "y": 845,
+        "width": 753,
+        "height": 27,
+        "text": "Order History"
+      },
+      "h3[2]": {
+        "x": 884,
+        "y": 197,
+        "width": 339,
+        "height": 27,
+        "text": "Place Order"
+      },
+      "[class*=\"order\"][0]": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "[class*=\"order\"][1]": {
+        "x": 32,
+        "y": 97,
+        "width": 1216,
+        "height": 51,
+        "text": "AuGoldAgSilverPtPlatinumPdPalladium"
+      },
+      "[class*=\"order\"][2]": {
+        "x": 32,
+        "y": 97,
+        "width": 95,
+        "height": 50,
+        "text": "AuGold"
+      },
+      "[class*=\"order\"][3]": {
+        "x": 135,
+        "y": 97,
+        "width": 101,
+        "height": 50,
+        "text": "AgSilver"
+      },
+      "[class*=\"order\"][4]": {
+        "x": 244,
+        "y": 97,
+        "width": 122,
+        "height": 50,
+        "text": "PtPlatinum"
+      },
+      "[class*=\"order\"][5]": {
+        "x": 373,
+        "y": 97,
+        "width": 128,
+        "height": 50,
+        "text": "PdPalladium"
+      },
+      "[class*=\"order\"][6]": {
+        "x": 32,
+        "y": 172,
+        "width": 803,
+        "height": 235,
+        "text": "Platinum Spot Price$2,759.58-0.18%-$5.09 (24h)Last Updated5:54:35 pmBid$2,745.79"
+      },
+      "[class*=\"order\"][7]": {
+        "x": 57,
+        "y": 317,
+        "width": 753,
+        "height": 65,
+        "text": "Bid$2,745.79Ask$2,773.38Spread$27.60(1.00%)"
+      },
+      "[class*=\"order\"][8]": {
+        "x": 32,
+        "y": 431,
+        "width": 803,
+        "height": 373,
+        "text": "Price Chart1H1D1W1M1Y$2,729.50$2,847.65"
+      },
+      "[class*=\"order\"][9]": {
+        "x": 32,
+        "y": 828,
+        "width": 803,
+        "height": 150,
+        "text": "Order HistoryNo orders for Platinum yet"
+      },
+      "[class*=\"order\"][10]": {
+        "x": 33,
+        "y": 829,
+        "width": 801,
+        "height": 60,
+        "text": "Order History"
+      },
+      "[class*=\"order\"][11]": {
+        "x": 859,
+        "y": 172,
+        "width": 389,
+        "height": 824,
+        "text": "Place OrderBuySellOrder TypeMarketLimitCurrencySGDUSDEURHKDJPYAmount (SGD)Quanti"
+      },
+      "[class*=\"order\"][12]": {
+        "x": 884,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "SGD"
+      },
+      "[class*=\"order\"][13]": {
+        "x": 945,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "USD"
+      },
+      "[class*=\"order\"][14]": {
+        "x": 1006,
+        "y": 416,
+        "width": 54,
+        "height": 34,
+        "text": "EUR"
+      },
+      "[class*=\"order\"][15]": {
+        "x": 1066,
+        "y": 416,
+        "width": 56,
+        "height": 34,
+        "text": "HKD"
+      },
+      "[class*=\"order\"][16]": {
+        "x": 1128,
+        "y": 416,
+        "width": 52,
+        "height": 34,
+        "text": "JPY"
+      },
+      "[class*=\"order\"][17]": {
+        "x": 884,
+        "y": 488,
+        "width": 339,
+        "height": 36,
+        "text": ""
+      },
+      "[class*=\"order\"][18]": {
+        "x": 884,
+        "y": 634,
+        "width": 339,
+        "height": 37,
+        "text": "Current Account (501-100234-001) – $50,000.00"
+      },
+      "[class*=\"order\"][19]": {
+        "x": 884,
+        "y": 713,
+        "width": 339,
+        "height": 62,
+        "text": "Precious Metals Account – Platinum(410-212232-203)"
+      },
+      "[class*=\"order\"][20]": {
+        "x": 884,
+        "y": 799,
+        "width": 339,
+        "height": 88,
+        "text": "Total$998.42At Ask price: $2,773.38/oz"
+      },
+      "[class*=\"order\"][21]": {
+        "x": 884,
+        "y": 911,
+        "width": 339,
+        "height": 36,
+        "text": "Review Buy Order"
+      },
+      "[class*=\"order\"][22]": {
+        "x": 0,
+        "y": 1028,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      }
+    }
+  },
+  {
+    "route": "/trade/XPD",
+    "filename": "trade-xpd.png",
+    "filepath": "/Users/xavierting/Desktop/Xavier Agentic AI/UIUX Auditor/audits/2026-03-09_precious-metals-trading/screenshots/trade-xpd.png",
+    "dimensions": {
+      "scrollWidth": 1280,
+      "scrollHeight": 1097,
+      "viewportWidth": 1280,
+      "viewportHeight": 1080
+    },
+    "elements": {
+      "nav": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "footer": {
+        "x": 0,
+        "y": 1028,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      },
+      "main": {
+        "x": 0,
+        "y": 65,
+        "width": 1280,
+        "height": 963,
+        "text": "AuGoldAgSilverPtPlatinumPdPalladiumPalladium Spot Price$2,165.87+1.81%+$39.11 (2"
+      },
+      "button[0]": {
+        "x": 32,
+        "y": 97,
+        "width": 95,
+        "height": 50,
+        "text": "AuGold"
+      },
+      "button[1]": {
+        "x": 135,
+        "y": 97,
+        "width": 101,
+        "height": 50,
+        "text": "AgSilver"
+      },
+      "button[2]": {
+        "x": 244,
+        "y": 97,
+        "width": 122,
+        "height": 50,
+        "text": "PtPlatinum"
+      },
+      "button[3]": {
+        "x": 373,
+        "y": 97,
+        "width": 128,
+        "height": 50,
+        "text": "PdPalladium"
+      },
+      "button[4]": {
+        "x": 596,
+        "y": 458,
+        "width": 39,
+        "height": 24,
+        "text": "1H"
+      },
+      "button[5]": {
+        "x": 639,
+        "y": 458,
+        "width": 39,
+        "height": 24,
+        "text": "1D"
+      },
+      "button[6]": {
+        "x": 682,
+        "y": 458,
+        "width": 42,
+        "height": 24,
+        "text": "1W"
+      },
+      "button[7]": {
+        "x": 727,
+        "y": 458,
+        "width": 40,
+        "height": 24,
+        "text": "1M"
+      },
+      "button[8]": {
+        "x": 772,
+        "y": 458,
+        "width": 38,
+        "height": 24,
+        "text": "1Y"
+      },
+      "button[9]": {
+        "x": 884,
+        "y": 240,
+        "width": 166,
+        "height": 48,
+        "text": "Buy"
+      },
+      "button[10]": {
+        "x": 1057,
+        "y": 240,
+        "width": 166,
+        "height": 48,
+        "text": "Sell"
+      },
+      "button[11]": {
+        "x": 884,
+        "y": 334,
+        "width": 166,
+        "height": 36,
+        "text": "Market"
+      },
+      "button[12]": {
+        "x": 1057,
+        "y": 334,
+        "width": 166,
+        "height": 36,
+        "text": "Limit"
+      },
+      "button[13]": {
+        "x": 884,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "SGD"
+      },
+      "button[14]": {
+        "x": 945,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "USD"
+      },
+      "button[15]": {
+        "x": 1006,
+        "y": 416,
+        "width": 54,
+        "height": 34,
+        "text": "EUR"
+      },
+      "button[16]": {
+        "x": 1066,
+        "y": 416,
+        "width": 56,
+        "height": 34,
+        "text": "HKD"
+      },
+      "button[17]": {
+        "x": 1128,
+        "y": 416,
+        "width": 52,
+        "height": 34,
+        "text": "JPY"
+      },
+      "button[18]": {
+        "x": 884,
+        "y": 911,
+        "width": 339,
+        "height": 36,
+        "text": "Review Buy Order"
+      },
+      "input:not([type=\"hidden\"])": {
+        "x": 884,
+        "y": 488,
+        "width": 339,
+        "height": 36,
+        "text": ""
+      },
+      "select": {
+        "x": 884,
+        "y": 634,
+        "width": 339,
+        "height": 37,
+        "text": "Current Account (501-100234-001) – $50,000.00"
+      },
+      "h2": {
+        "x": 57,
+        "y": 197,
+        "width": 271,
+        "height": 28,
+        "text": "Palladium Spot Price"
+      },
+      "h3[0]": {
+        "x": 57,
+        "y": 456,
+        "width": 94,
+        "height": 27,
+        "text": "Price Chart"
+      },
+      "h3[1]": {
+        "x": 57,
+        "y": 845,
+        "width": 753,
+        "height": 27,
+        "text": "Order History"
+      },
+      "h3[2]": {
+        "x": 884,
+        "y": 197,
+        "width": 339,
+        "height": 27,
+        "text": "Place Order"
+      },
+      "[class*=\"order\"][0]": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "[class*=\"order\"][1]": {
+        "x": 32,
+        "y": 97,
+        "width": 1216,
+        "height": 51,
+        "text": "AuGoldAgSilverPtPlatinumPdPalladium"
+      },
+      "[class*=\"order\"][2]": {
+        "x": 32,
+        "y": 97,
+        "width": 95,
+        "height": 50,
+        "text": "AuGold"
+      },
+      "[class*=\"order\"][3]": {
+        "x": 135,
+        "y": 97,
+        "width": 101,
+        "height": 50,
+        "text": "AgSilver"
+      },
+      "[class*=\"order\"][4]": {
+        "x": 244,
+        "y": 97,
+        "width": 122,
+        "height": 50,
+        "text": "PtPlatinum"
+      },
+      "[class*=\"order\"][5]": {
+        "x": 373,
+        "y": 97,
+        "width": 128,
+        "height": 50,
+        "text": "PdPalladium"
+      },
+      "[class*=\"order\"][6]": {
+        "x": 32,
+        "y": 172,
+        "width": 803,
+        "height": 235,
+        "text": "Palladium Spot Price$2,165.87+1.81%+$39.11 (24h)Last Updated5:54:38 pmBid$2,155."
+      },
+      "[class*=\"order\"][7]": {
+        "x": 57,
+        "y": 317,
+        "width": 753,
+        "height": 65,
+        "text": "Bid$2,155.04Ask$2,176.70Spread$21.66(1.00%)"
+      },
+      "[class*=\"order\"][8]": {
+        "x": 32,
+        "y": 431,
+        "width": 803,
+        "height": 373,
+        "text": "Price Chart1H1D1W1M1Y$2,139.49$2,228.07"
+      },
+      "[class*=\"order\"][9]": {
+        "x": 32,
+        "y": 828,
+        "width": 803,
+        "height": 150,
+        "text": "Order HistoryNo orders for Palladium yet"
+      },
+      "[class*=\"order\"][10]": {
+        "x": 33,
+        "y": 829,
+        "width": 801,
+        "height": 60,
+        "text": "Order History"
+      },
+      "[class*=\"order\"][11]": {
+        "x": 859,
+        "y": 172,
+        "width": 389,
+        "height": 824,
+        "text": "Place OrderBuySellOrder TypeMarketLimitCurrencySGDUSDEURHKDJPYAmount (SGD)Quanti"
+      },
+      "[class*=\"order\"][12]": {
+        "x": 884,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "SGD"
+      },
+      "[class*=\"order\"][13]": {
+        "x": 945,
+        "y": 416,
+        "width": 55,
+        "height": 34,
+        "text": "USD"
+      },
+      "[class*=\"order\"][14]": {
+        "x": 1006,
+        "y": 416,
+        "width": 54,
+        "height": 34,
+        "text": "EUR"
+      },
+      "[class*=\"order\"][15]": {
+        "x": 1066,
+        "y": 416,
+        "width": 56,
+        "height": 34,
+        "text": "HKD"
+      },
+      "[class*=\"order\"][16]": {
+        "x": 1128,
+        "y": 416,
+        "width": 52,
+        "height": 34,
+        "text": "JPY"
+      },
+      "[class*=\"order\"][17]": {
+        "x": 884,
+        "y": 488,
+        "width": 339,
+        "height": 36,
+        "text": ""
+      },
+      "[class*=\"order\"][18]": {
+        "x": 884,
+        "y": 634,
+        "width": 339,
+        "height": 37,
+        "text": "Current Account (501-100234-001) – $50,000.00"
+      },
+      "[class*=\"order\"][19]": {
+        "x": 884,
+        "y": 713,
+        "width": 339,
+        "height": 62,
+        "text": "Precious Metals Account – Palladium(410-212232-204)"
+      },
+      "[class*=\"order\"][20]": {
+        "x": 884,
+        "y": 799,
+        "width": 339,
+        "height": 88,
+        "text": "Total$1,001.28At Ask price: $2,176.70/oz"
+      },
+      "[class*=\"order\"][21]": {
+        "x": 884,
+        "y": 911,
+        "width": 339,
+        "height": 36,
+        "text": "Review Buy Order"
+      },
+      "[class*=\"order\"][22]": {
+        "x": 0,
+        "y": 1028,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      }
+    }
+  },
+  {
+    "route": "/orders",
+    "filename": "orders.png",
+    "filepath": "/Users/xavierting/Desktop/Xavier Agentic AI/UIUX Auditor/audits/2026-03-09_precious-metals-trading/screenshots/orders.png",
+    "dimensions": {
+      "scrollWidth": 1280,
+      "scrollHeight": 1080,
+      "viewportWidth": 1280,
+      "viewportHeight": 1080
+    },
+    "elements": {
+      "nav": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "footer": {
+        "x": 0,
+        "y": 1011,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      },
+      "main": {
+        "x": 0,
+        "y": 65,
+        "width": 1280,
+        "height": 946,
+        "text": "Order HistoryView all your trading activityTotal Orders0Filled Orders0Total Trad"
+      },
+      "select[0]": {
+        "x": 932,
+        "y": 336,
+        "width": 109,
+        "height": 33,
+        "text": "All MetalsGoldSilverPlatinumPalladium"
+      },
+      "select[1]": {
+        "x": 1112,
+        "y": 336,
+        "width": 111,
+        "height": 33,
+        "text": "All StatusFilledPendingCancelledExpired"
+      },
+      "h1": {
+        "x": 32,
+        "y": 97,
+        "width": 1216,
+        "height": 32,
+        "text": "Order History"
+      },
+      "h2": {
+        "x": 57,
+        "y": 338,
+        "width": 91,
+        "height": 30,
+        "text": "All Orders"
+      },
+      "[class*=\"order\"][0]": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "[class*=\"order\"][1]": {
+        "x": 32,
+        "y": 177,
+        "width": 389,
+        "height": 110,
+        "text": "Total Orders0"
+      },
+      "[class*=\"order\"][2]": {
+        "x": 445,
+        "y": 177,
+        "width": 389,
+        "height": 110,
+        "text": "Filled Orders0"
+      },
+      "[class*=\"order\"][3]": {
+        "x": 859,
+        "y": 177,
+        "width": 389,
+        "height": 110,
+        "text": "Total Traded$0.00"
+      },
+      "[class*=\"order\"][4]": {
+        "x": 32,
+        "y": 319,
+        "width": 1216,
+        "height": 156,
+        "text": "All OrdersMetal:All MetalsGoldSilverPlatinumPalladiumStatus:All StatusFilledPend"
+      },
+      "[class*=\"order\"][5]": {
+        "x": 33,
+        "y": 320,
+        "width": 1214,
+        "height": 66,
+        "text": "All OrdersMetal:All MetalsGoldSilverPlatinumPalladiumStatus:All StatusFilledPend"
+      },
+      "[class*=\"order\"][6]": {
+        "x": 932,
+        "y": 336,
+        "width": 109,
+        "height": 33,
+        "text": "All MetalsGoldSilverPlatinumPalladium"
+      },
+      "[class*=\"order\"][7]": {
+        "x": 1112,
+        "y": 336,
+        "width": 111,
+        "height": 33,
+        "text": "All StatusFilledPendingCancelledExpired"
+      },
+      "[class*=\"order\"][8]": {
+        "x": 0,
+        "y": 1011,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      }
+    }
+  },
+  {
+    "route": "/products",
+    "filename": "products.png",
+    "filepath": "/Users/xavierting/Desktop/Xavier Agentic AI/UIUX Auditor/audits/2026-03-09_precious-metals-trading/screenshots/products.png",
+    "dimensions": {
+      "scrollWidth": 1280,
+      "scrollHeight": 1493,
+      "viewportWidth": 1280,
+      "viewportHeight": 1080
+    },
+    "elements": {
+      "nav": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "footer": {
+        "x": 0,
+        "y": 1424,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      },
+      "main": {
+        "x": 0,
+        "y": 65,
+        "width": 1280,
+        "height": 1359,
+        "text": "Product InformationLearn about precious metals and make informed investment deci"
+      },
+      "button[0]": {
+        "x": 196,
+        "y": 153,
+        "width": 219,
+        "height": 40,
+        "text": "Gold (XAU)"
+      },
+      "button[1]": {
+        "x": 419,
+        "y": 153,
+        "width": 219,
+        "height": 40,
+        "text": "Silver (XAG)"
+      },
+      "button[2]": {
+        "x": 642,
+        "y": 153,
+        "width": 219,
+        "height": 40,
+        "text": "Platinum (XPT)"
+      },
+      "button[3]": {
+        "x": 865,
+        "y": 153,
+        "width": 219,
+        "height": 40,
+        "text": "Palladium (XPD)"
+      },
+      "button[4]": {
+        "x": 217,
+        "y": 1042,
+        "width": 846,
+        "height": 24,
+        "text": "How is the gold price determined?"
+      },
+      "button[5]": {
+        "x": 217,
+        "y": 1091,
+        "width": 846,
+        "height": 24,
+        "text": "What is the minimum amount I can buy?"
+      },
+      "button[6]": {
+        "x": 217,
+        "y": 1140,
+        "width": 846,
+        "height": 24,
+        "text": "Is my gold physically allocated?"
+      },
+      "button[7]": {
+        "x": 217,
+        "y": 1189,
+        "width": 846,
+        "height": 24,
+        "text": "Can I convert my gold holdings to physical bars?"
+      },
+      "button[8]": {
+        "x": 576,
+        "y": 1363,
+        "width": 128,
+        "height": 36,
+        "text": "Trade Gold"
+      },
+      "h1": {
+        "x": 192,
+        "y": 65,
+        "width": 896,
+        "height": 32,
+        "text": "Product Information"
+      },
+      "h2[0]": {
+        "x": 217,
+        "y": 254,
+        "width": 846,
+        "height": 28,
+        "text": "About Gold"
+      },
+      "h2[1]": {
+        "x": 217,
+        "y": 446,
+        "width": 846,
+        "height": 28,
+        "text": "Why Invest in Gold?"
+      },
+      "h2[2]": {
+        "x": 217,
+        "y": 720,
+        "width": 846,
+        "height": 28,
+        "text": "Fun Facts"
+      },
+      "h2[3]": {
+        "x": 217,
+        "y": 998,
+        "width": 846,
+        "height": 28,
+        "text": "Frequently Asked Questions"
+      },
+      "h3": {
+        "x": 217,
+        "y": 1287,
+        "width": 846,
+        "height": 28,
+        "text": "Ready to Trade Gold?"
+      },
+      "[class*=\"order\"][0]": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 65,
+        "text": "PMPrecious MetalsDashboardTradeOrdersProductsDemo AccountSGD 100,000.00DA"
+      },
+      "[class*=\"order\"][1]": {
+        "x": 192,
+        "y": 229,
+        "width": 896,
+        "height": 168,
+        "text": "About GoldGold (XAU) has been a symbol of wealth and a store of value for thousa"
+      },
+      "[class*=\"order\"][2]": {
+        "x": 192,
+        "y": 421,
+        "width": 896,
+        "height": 250,
+        "text": "Why Invest in Gold?Hedge against inflation — gold tends to retain its purchasing"
+      },
+      "[class*=\"order\"][3]": {
+        "x": 192,
+        "y": 695,
+        "width": 896,
+        "height": 254,
+        "text": "Fun FactsAll the gold ever mined would fit into a cube roughly 22 metres on each"
+      },
+      "[class*=\"order\"][4]": {
+        "x": 192,
+        "y": 973,
+        "width": 896,
+        "height": 265,
+        "text": "Frequently Asked QuestionsHow is the gold price determined?What is the minimum a"
+      },
+      "[class*=\"order\"][5]": {
+        "x": 192,
+        "y": 1262,
+        "width": 896,
+        "height": 162,
+        "text": "Ready to Trade Gold?Start trading Gold (XAU) with competitive spreads and real-t"
+      },
+      "[class*=\"order\"][6]": {
+        "x": 576,
+        "y": 1363,
+        "width": 128,
+        "height": 36,
+        "text": "Trade Gold"
+      },
+      "[class*=\"order\"][7]": {
+        "x": 0,
+        "y": 1424,
+        "width": 1280,
+        "height": 69,
+        "text": "© 2026 Precious Metals Trading Platform. All rights reserved."
+      }
+    }
+  }
+]

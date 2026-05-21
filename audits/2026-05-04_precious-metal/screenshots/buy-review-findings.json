@@ -1,0 +1,9 @@
+[
+  {"number": 1,  "severity": "critical", "x": 320, "y": 180, "label": "Two 'Indicative Prices' with same label (live vs executed)"},
+  {"number": 3,  "severity": "critical", "x": 320, "y": 360, "label": "No fee / commission line item"},
+  {"number": 12, "severity": "high",     "x": 320, "y": 430, "label": "GST / tax treatment never mentioned"},
+  {"number": 10, "severity": "high",     "x": 160, "y": 510, "label": "No Key Fact Sheet / suitability statement"},
+  {"number": 15, "severity": "high",     "x": 160, "y": 580, "label": "Risk disclaimer = grey 12px body — visually under-weighted"},
+  {"number": 8,  "severity": "high",     "x": 380, "y": 540, "label": "T&C consent is passive copy, not a checkbox"},
+  {"number": 9,  "severity": "high",     "x": 380, "y": 580, "label": "Disclaimer says 'Submit' but button reads 'Confirm Buy Order'"}
+]

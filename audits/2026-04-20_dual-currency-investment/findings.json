@@ -1,0 +1,252 @@
+[
+  {
+    "screen": "Landing \u2014 Hero Banner & Value Props",
+    "dimension": "9. Trust & Emotional Design",
+    "severity": "critical",
+    "finding": "Landing page copy exclusively promotes upside \u2014 'Ready to invest?', 'Turn your foreign currency needs into potential for better returns', 'Maximise your investment returns', 'higher than interest rates on an ordinary time deposit.' Zero risk mention for a capital-at-risk structured product.",
+    "novice_impact": "Forms expectation of guaranteed positive returns; no signal that principal could be converted to less favourable currency at maturity.",
+    "experienced_impact": "Notes absence of required risk disclaimers at product entry point; questions regulatory compliance.",
+    "recommendation": "Add mandatory risk disclaimer below hero: 'Important: DCI is a structured investment product, not a deposit. Your principal may be converted to the alternate currency at maturity. Capital is at risk. Not covered by deposit insurance.'",
+    "number": 1
+  },
+  {
+    "screen": "Entire Flow (Config \u2192 Accounts \u2192 Review \u2192 Submit)",
+    "dimension": "9. Trust & Emotional Design",
+    "severity": "critical",
+    "finding": "Risk disclosures exist only in collapsed FAQ on landing page. User can configure, select accounts, review, and submit \u2014 committing real capital \u2014 without encountering any risk warning or acknowledgment step.",
+    "novice_impact": "No opportunity to understand downside before committing capital. May not realise currency conversion risk exists until after settlement.",
+    "experienced_impact": "Expects inline risk disclosures per industry standard; questions MAS regulatory compliance for Specified Investment Products.",
+    "recommendation": "Insert risk summary card at top of Configuration screen. Add mandatory risk acknowledgment checkbox on Review screen before Submit is enabled.",
+    "number": 2
+  },
+  {
+    "screen": "Pre-Configuration (No gate)",
+    "dimension": "9. Trust & Emotional Design",
+    "severity": "critical",
+    "finding": "No suitability assessment or Customer Knowledge Assessment (CKA) before allowing investment in a structured product with embedded derivatives. Any authenticated corporate user can immediately invest.",
+    "novice_impact": "Allowed to invest in a complex product they may fundamentally misunderstand, with no comprehension gate. Could lose significant capital.",
+    "experienced_impact": "Questions whether platform meets MAS Notice SFA 04-N12 requirements for Customer Knowledge Assessment.",
+    "recommendation": "Add suitability gate before configuration: 3-4 questions confirming user understands DCI is not a deposit, settlement may be in alternate currency, and principal is at risk. For returning users, allow annual re-certification bypass.",
+    "number": 3
+  },
+  {
+    "screen": "Review \u2014 Submit Section",
+    "dimension": "6. Forms & Data Entry",
+    "severity": "critical",
+    "finding": "No explicit T&C consent checkbox. Only implicit consent via small-print text: 'By clicking Submit, you confirm that you have read, understood and agree to the Terms and Conditions.' Insufficient for structured products with embedded derivatives.",
+    "novice_impact": "May not read disclaimer; unknowingly consents to unreviewed terms for a capital-at-risk product.",
+    "experienced_impact": "Expects explicit consent mechanism per industry standard for structured products. Implicit consent erodes trust.",
+    "recommendation": "Add mandatory checkboxes: '\u2610 I have read and agree to the Terms and Conditions' and '\u2610 I understand this investment may settle in the alternate currency and my principal is at risk.' Both required before Submit enables.",
+    "number": 4
+  },
+  {
+    "screen": "Config \u2014 Strike Price Selection",
+    "dimension": "8. Cognitive Load & Clarity",
+    "severity": "high",
+    "finding": "Annualized yield (e.g. 6.50% p.a.) is the primary decision anchor and only yield format shown. For 1-month tenor, actual return is ~0.54%; for 1-week, ~0.125%. Actual period return never displayed.",
+    "novice_impact": "Perceives 6.50% as the actual return they'll receive. Dramatically inflated expectations.",
+    "experienced_impact": "Understands p.a. convention but would benefit from seeing actual period return for quick mental calculation.",
+    "recommendation": "Show both formats: '6.50% p.a. (~0.54% for 1 month)' or 'Est. return: ~$1,083 USD'. Display absolute dollar return prominently in the Potential Outcomes panel.",
+    "number": 5
+  },
+  {
+    "screen": "Config \u2014 Strike Price Selection",
+    "dimension": "8. Cognitive Load & Clarity",
+    "severity": "high",
+    "finding": "Strike price list shows yield-risk tradeoff as purely better/worse yields. Higher yield = greater probability of alternate currency settlement, but this relationship is unexplained.",
+    "novice_impact": "Naturally selects highest yield without understanding that strike price closer to spot means higher conversion probability. Makes uninformed risk decision.",
+    "experienced_impact": "Understands tradeoff implicitly from options knowledge but notes absence of novice guardrails.",
+    "recommendation": "Add explanatory note above strike prices: 'Strike prices closer to the current spot rate offer higher yields but have a greater chance of your investment settling in the alternate currency.'",
+    "number": 6
+  },
+  {
+    "screen": "Config \u2014 Investment Amount Field",
+    "dimension": "5. Component & Interaction Design",
+    "severity": "high",
+    "finding": "Minimum amount helper text displays '$0,000.00 USD' \u2014 template placeholder never replaced with actual minimum.",
+    "novice_impact": "Cannot determine minimum investment. '$0,000.00' looks like a system error; reduces trust in the platform.",
+    "experienced_impact": "Recognises placeholder; questions production readiness of the design.",
+    "recommendation": "Replace with actual dynamic minimum (e.g., 'Minimum: 50,000.00 USD'). Make dynamic per currency pair.",
+    "number": 7
+  },
+  {
+    "screen": "Config \u2014 All Financial Terms",
+    "dimension": "8. Cognitive Load & Clarity",
+    "severity": "high",
+    "finding": "Financial jargon without inline definitions or tooltips: Tenor, Strike Price, Currency pair, Spot Rate, Fixing Rate, Base Currency, Alternate Currency. \u24d8 icons exist but tooltip content not visible in design.",
+    "novice_impact": "Cannot make informed decisions. Key terms undefined at point of decision. Novice comprehensibility ~2.5/5.",
+    "experienced_impact": "No issue \u2014 standard terminology (4.8/5 comprehensibility).",
+    "recommendation": "Ensure \u24d8 tooltip content is designed. Use plain language alongside jargon: 'Tenor (Investment Period)', 'Strike Price (Target Exchange Rate)'. Add definitions for every \u24d8 icon.",
+    "number": 8
+  },
+  {
+    "screen": "Config \u2014 Scenario Panels",
+    "dimension": "4. Colour & Contrast",
+    "severity": "high",
+    "finding": "Scenario A (Base Currency) uses green; Scenario B (Alternate Currency) uses peach/orange. Creates unconscious bias: green = good, orange = bad. Either scenario could be preferred depending on user's currency needs.",
+    "novice_impact": "Perceives Scenario A as the 'correct' outcome regardless of actual currency needs. Biased decision-making.",
+    "experienced_impact": "Notices colour bias but not significantly affected.",
+    "recommendation": "Use neutral colours for both scenarios (e.g., light blue and light grey). Or allow user to declare preferred outcome and highlight accordingly.",
+    "number": 9
+  },
+  {
+    "screen": "Reinvest Config \u2014 Strike Not Met",
+    "dimension": "8. Cognitive Load & Clarity",
+    "severity": "high",
+    "finding": "After strike-not-met settlement, reinvestment screen silently flips currency pair (e.g., EUR/SGD \u2192 SGD/EUR). Base currency changes without explanation.",
+    "novice_impact": "Deeply confused by currency change. May abandon or make an error.",
+    "experienced_impact": "Understands mechanics but prefers explicit confirmation and context.",
+    "recommendation": "Add contextual banner: 'Your previous investment settled in SGD. This reinvestment uses SGD as your base currency.' Show original vs new pair.",
+    "number": 10
+  },
+  {
+    "screen": "Config \u2192 Accounts \u2192 Review",
+    "dimension": "1. IA & Navigation",
+    "severity": "high",
+    "finding": "No step progress indicator across the 3-step investment flow. Users cannot gauge remaining steps or their position in the flow.",
+    "novice_impact": "Uncertain how long process will take or how many steps remain. May abandon if flow feels endless.",
+    "experienced_impact": "Minor \u2014 can infer step count but expects a stepper in a financial flow as standard.",
+    "recommendation": "Add horizontal stepper: '1. Configure \u2192 2. Accounts \u2192 3. Review \u2192 Confirmation'. Persist across all steps.",
+    "number": 11
+  },
+  {
+    "screen": "Config \u2014 Spot Rate & Yield",
+    "dimension": "7. Feedback & System Status",
+    "severity": "medium",
+    "finding": "'Indicative' qualifier on spot rate and yield unexplained. Users don't know if rates are guaranteed, estimated, or may change before submission.",
+    "novice_impact": "Anxious about whether displayed yield is what they'll actually receive. 'Indicative' sounds uncertain.",
+    "experienced_impact": "Understands live quotes but notes lack of explicit 'rates locked at submission' disclosure.",
+    "recommendation": "Add tooltip: 'Indicative rates based on current market conditions; may change. Final rate confirmed at submission.'",
+    "number": 12
+  },
+  {
+    "screen": "Review \u2014 Full Page",
+    "dimension": "2. Visual Hierarchy & Layout",
+    "severity": "medium",
+    "finding": "Review screen requires scrolling through 5 sections before Submit button. No sticky CTA bar, floating summary, or collapsible sections. ~3x viewport height.",
+    "novice_impact": "May not find Submit; extensive scrolling before financial commitment increases anxiety.",
+    "experienced_impact": "Finds scrolling tedious for repeat investments; wants quick-submit option.",
+    "recommendation": "Add sticky bottom bar with key summary (Amount, Pair, Yield) + Submit. Or make sections collapsible.",
+    "number": 13
+  },
+  {
+    "screen": "T&C Modal",
+    "dimension": "3. Typography & Readability",
+    "severity": "medium",
+    "finding": "T&C presented as undifferentiated wall of text \u2014 no headings, bullets, numbered clauses, or section breaks. Users cannot scan for relevant clauses.",
+    "novice_impact": "Will not read any T&C content. Loses opportunity to understand product risks and terms.",
+    "experienced_impact": "Cannot locate specific clauses (early termination, force majeure). Frustrating for due-diligence users.",
+    "recommendation": "Structure with section headings, numbered clauses, bullets. Highlight 3-5 key risk clauses visually. Add table of contents.",
+    "number": 14
+  },
+  {
+    "screen": "Confirmation \u2014 CTA Priority",
+    "dimension": "9. Trust & Emotional Design",
+    "severity": "medium",
+    "finding": "'Place Another Investment' is primary CTA (filled dark button) immediately after placing investment. Nudges impulsive repeat investment without reflection.",
+    "novice_impact": "May feel pressured to invest again immediately without evaluating portfolio alignment.",
+    "experienced_impact": "Appreciates quick access but recognises the behavioural nudge.",
+    "recommendation": "Make 'Back to Dual Currency Investment' the primary CTA. Move 'Place Another Investment' to secondary (outline button).",
+    "number": 15
+  },
+  {
+    "screen": "Confirmation \u2014 Expanded vs Collapsed",
+    "dimension": "8. Cognitive Load & Clarity",
+    "severity": "medium",
+    "finding": "Expanded confirmation repeats nearly all review information. At confirmation, users need reassurance + ref number, not a full recap.",
+    "novice_impact": "May re-read everything looking for something different; cognitive load at relief moment.",
+    "experienced_impact": "Skips detail; wasted screen real estate.",
+    "recommendation": "Default to collapsed confirmation (summary + ref number + timeline). Provide expandable 'View full details' for opt-in.",
+    "number": 16
+  },
+  {
+    "screen": "Investment Details \u2014 Expiring Soon",
+    "dimension": "7. Feedback & System Status",
+    "severity": "medium",
+    "finding": "'Expiring Soon' detail screen shows no settlement outcome section, no Potential Outcomes panel, no projected scenarios. Users approaching expiry have less information than at placement.",
+    "novice_impact": "Anxious about approaching expiry with no indication of likely outcome. 'What will happen to my money?'",
+    "experienced_impact": "Wants current spot vs strike to gauge probable outcome. Missing information available at configuration.",
+    "recommendation": "Add 'Projected Outcome' section showing current spot rate vs strike price. Show countdown to fixing date/time.",
+    "number": 17
+  },
+  {
+    "screen": "Landing \u2014 Expiring Soon Status",
+    "dimension": "4. Colour & Contrast",
+    "severity": "medium",
+    "finding": "'Expiring soon' status badge uses red/orange text. Red in banking = error/danger, but expiry is a normal lifecycle event.",
+    "novice_impact": "Perceives 'Expiring soon' as something going wrong. Alarm where none is warranted.",
+    "experienced_impact": "May briefly notice the colour but understands it's informational.",
+    "recommendation": "Use neutral amber badge. Reserve red for errors/actions required. Consider 'Approaching Maturity' as clearer label.",
+    "number": 18
+  },
+  {
+    "screen": "Landing \u2014 Value Proposition Cards",
+    "dimension": "2. Visual Hierarchy & Layout",
+    "severity": "medium",
+    "finding": "Three value cards present benefits without balanced risk context. Icons are generic and don't clearly relate to text content.",
+    "novice_impact": "Value props reinforce deposit-like expectations. 'Maximise your investment returns' reads as guaranteed upside.",
+    "experienced_impact": "Skims past marketing content; value props don't provide useful information.",
+    "recommendation": "Balance at least one card with risk context. Replace generic icons with DCI-specific illustrations.",
+    "number": 19
+  },
+  {
+    "screen": "Account Selection \u2014 Page Layout",
+    "dimension": "2. Visual Hierarchy & Layout",
+    "severity": "medium",
+    "finding": "Account selection uses <40% viewport width. Large whitespace on right side. No contextual information about why two settlement accounts are needed.",
+    "novice_impact": "Wonders why they need two settlement accounts. Page feels sparse.",
+    "experienced_impact": "Understands need for dual settlement but notes wasted space could show helpful context.",
+    "recommendation": "Add right-side panel explaining why two settlement accounts are needed with scenario connection.",
+    "number": 20
+  },
+  {
+    "screen": "Config \u2014 Currency Selector",
+    "dimension": "5. Component & Interaction Design",
+    "severity": "medium",
+    "finding": "Investment Amount currency selector shows 'N.A' as default state with generic flag icon. Non-standard and confusing.",
+    "novice_impact": "'N.A' \u2014 Not Applicable? Not Available? Confusing initial state.",
+    "experienced_impact": "Minor \u2014 quickly selects currency. But 'N.A' is non-standard.",
+    "recommendation": "Change default to 'Select Currency' or pre-populate with user's primary account currency.",
+    "number": 21
+  },
+  {
+    "screen": "Landing \u2014 FAQ Expansion",
+    "dimension": "3. Typography & Readability",
+    "severity": "medium",
+    "finding": "FAQ contains excellent DCI education (definitions, worked examples, risk disclosures, payoff tables) but is buried below fold, behind accordion toggles, on landing page only. Not accessible during investment flow.",
+    "novice_impact": "FAQ is the only product education source, but most users won't find or read it.",
+    "experienced_impact": "May reference FAQ but finds it inefficient to toggle between FAQ and investment flow.",
+    "recommendation": "Surface key FAQ content contextually throughout the flow. Make FAQ searchable.",
+    "number": 22
+  },
+  {
+    "screen": "Post-Investment \u2014 Table Column Density",
+    "dimension": "2. Visual Hierarchy & Layout",
+    "severity": "low",
+    "finding": "Active Investments table packs 7 columns plus inline settlement banners. May cause horizontal scrolling on narrower viewports.",
+    "novice_impact": "Dense table is overwhelming with unfamiliar data.",
+    "experienced_impact": "Appreciates data density for quick scanning.",
+    "recommendation": "Consider progressive disclosure: 5 key columns in table, full detail on row click. Responsive table pattern for narrower viewports.",
+    "number": 23
+  },
+  {
+    "screen": "All Screens \u2014 Yield 'p.a.' Label",
+    "dimension": "3. Typography & Readability",
+    "severity": "low",
+    "finding": "'p.a.' abbreviation never expanded to 'per annum' or 'per year' anywhere in the flow.",
+    "novice_impact": "May not know what 'p.a.' means. Adds to jargon burden.",
+    "experienced_impact": "No issue \u2014 standard abbreviation.",
+    "recommendation": "Expand on first use: '6.50% p.a. (per year)'. Use 'annual' in full where space permits.",
+    "number": 24
+  },
+  {
+    "screen": "Confirmation \u2014 Timeline Dates",
+    "dimension": "7. Feedback & System Status",
+    "severity": "low",
+    "finding": "Confirmation shows 2-day gap between Trade Date and Start Date with no explanation of T+2 settlement convention.",
+    "novice_impact": "Wonders why investment doesn't start immediately. May check back anxiously.",
+    "experienced_impact": "Understands T+2 but notes it's not explained for corporate users who may not be FX-savvy.",
+    "recommendation": "Add brief note: 'Your investment starts 2 business days after placement (standard settlement).'",
+    "number": 25
+  }
+]

@@ -1,0 +1,4 @@
+[
+  {"number": 21, "severity": "medium", "x": 700, "y": 530, "label": "'Investment Amount' (Buy) vs 'Market Value' (Sell) vs email reuses 'Investment Amount'"},
+  {"number": 23, "severity": "medium", "x": 700, "y": 700, "label": "'Show available balance' link absent on Sell form"}
+]

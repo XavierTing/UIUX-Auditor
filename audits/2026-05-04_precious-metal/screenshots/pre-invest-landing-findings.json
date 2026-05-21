@@ -1,0 +1,4 @@
+[
+  {"number": 7,  "severity": "high", "x": 200, "y": 220, "label": "'Indicative price' undefined inline"},
+  {"number": 11, "severity": "high", "x": 200, "y": 620, "label": "Custody (allocated/unallocated) undisclosed"}
+]

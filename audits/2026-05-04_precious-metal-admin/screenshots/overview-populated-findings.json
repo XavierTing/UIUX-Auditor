@@ -1,0 +1,4 @@
+[
+  {"number": 13, "severity": "high",   "x": 540, "y": 720, "label": "No Status column on Recent orders"},
+  {"number": 21, "severity": "medium", "x": 360, "y": 820, "label": "Numerics not tabular — decimals don't align"}
+]

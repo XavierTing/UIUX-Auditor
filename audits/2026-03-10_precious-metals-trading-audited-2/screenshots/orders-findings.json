@@ -1,0 +1,4 @@
+[
+  {"number": 1, "severity": "high", "x": 870, "y": 320, "label": "Filter dropdown heights 36px below 44px minimum"},
+  {"number": 6, "severity": "medium", "x": 640, "y": 1000, "label": "No footer on any page"}
+]

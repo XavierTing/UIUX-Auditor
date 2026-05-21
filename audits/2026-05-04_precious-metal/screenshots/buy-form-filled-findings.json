@@ -1,0 +1,9 @@
+[
+  {"number": 4,  "severity": "critical", "x": 380, "y": 200, "label": "No risk warning surfaced before commit"},
+  {"number": 2,  "severity": "critical", "x": 250, "y": 280, "label": "No bid/ask spread shown"},
+  {"number": 18, "severity": "high",     "x": 250, "y": 320, "label": "No price-validity window"},
+  {"number": 19, "severity": "high",     "x": 250, "y": 580, "label": "No 'Past performance' disclaimer near chart"},
+  {"number": 20, "severity": "medium",   "x": 380, "y": 420, "label": "Eye lands on chart, not form"},
+  {"number": 22, "severity": "medium",   "x": 710, "y": 460, "label": "Swap icon between fields unlabelled"},
+  {"number": 17, "severity": "high",     "x": 860, "y": 870, "label": "Primary CTA is dark slate — visually quietest element"}
+]

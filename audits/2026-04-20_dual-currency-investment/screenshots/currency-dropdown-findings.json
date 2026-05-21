@@ -1,0 +1,9 @@
+[
+  {
+    "number": 21,
+    "severity": "medium",
+    "x": 500,
+    "y": 100,
+    "label": "N.A default state is confusing"
+  }
+]

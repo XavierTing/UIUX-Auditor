@@ -1,0 +1,6 @@
+[
+  {"number": 5,  "severity": "critical", "x": 860, "y": 110, "label": "No maker-checker / pending-approval state"},
+  {"number": 14, "severity": "high",     "x": 860, "y": 360, "label": "No Status column on Order History"},
+  {"number": 13, "severity": "high",     "x": 600, "y": 500, "label": "Order rows not clickable; no order-detail screen"},
+  {"number": 16, "severity": "high",     "x": 600, "y": 600, "label": "Numeric columns left-aligned; proportional figures"}
+]

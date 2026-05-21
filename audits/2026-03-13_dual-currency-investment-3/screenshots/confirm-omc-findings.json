@@ -1,0 +1,9 @@
+[
+  {
+    "number": 17,
+    "severity": "medium",
+    "x": 1200,
+    "y": 170,
+    "label": "Trade Finance active instead of FX"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "number": 1,
+    "severity": "critical",
+    "x": 1600,
+    "y": 480,
+    "label": "Hero promotes returns with zero risk mention"
+  },
+  {
+    "number": 2,
+    "severity": "critical",
+    "x": 300,
+    "y": 2600,
+    "label": "Risk only in collapsed FAQ"
+  }
+]

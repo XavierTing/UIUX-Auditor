@@ -1,0 +1,9 @@
+[
+  {
+    "number": 10,
+    "severity": "high",
+    "x": 500,
+    "y": 1100,
+    "label": "Currency pair flips silently"
+  }
+]

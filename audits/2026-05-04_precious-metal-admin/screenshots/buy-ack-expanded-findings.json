@@ -1,0 +1,4 @@
+[
+  {"number": 11, "severity": "high", "x": 380, "y": 230, "label": "'Filled successfully' reads as terminal — masks any pending checker step"},
+  {"number": 14, "severity": "high", "x": 380, "y": 620, "label": "No 'what happens next' (settlement time, statement, dispute path)"}
+]

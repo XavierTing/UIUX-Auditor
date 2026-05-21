@@ -1,0 +1,6 @@
+[
+  {"number": 7, "severity": "high", "x": 400, "y": 30, "label": "Nav inconsistency"},
+  {"number": 13, "severity": "medium", "x": 600, "y": 290, "label": "Green overloaded"},
+  {"number": 17, "severity": "medium", "x": 450, "y": 270, "label": "Status badges inconsistent"},
+  {"number": 22, "severity": "low", "x": 150, "y": 145, "label": "Value props weak"}
+]

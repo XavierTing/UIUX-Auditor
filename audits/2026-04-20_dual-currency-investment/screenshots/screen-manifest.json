@@ -1,0 +1,67 @@
+[
+  {
+    "id": "932:30781",
+    "slug": "landing",
+    "filename": "landing.png"
+  },
+  {
+    "id": "932:30995",
+    "slug": "config-empty",
+    "filename": "config-empty.png"
+  },
+  {
+    "id": "932:31110",
+    "slug": "config-filled",
+    "filename": "config-filled.png"
+  },
+  {
+    "id": "932:31404",
+    "slug": "review",
+    "filename": "review.png"
+  },
+  {
+    "id": "932:30956",
+    "slug": "tc-modal",
+    "filename": "tc-modal.png"
+  },
+  {
+    "id": "932:31505",
+    "slug": "confirmation-expanded",
+    "filename": "confirmation-expanded.png"
+  },
+  {
+    "id": "932:32010",
+    "slug": "confirmation-collapsed",
+    "filename": "confirmation-collapsed.png"
+  },
+  {
+    "id": "932:31579",
+    "slug": "active-investments",
+    "filename": "active-investments.png"
+  },
+  {
+    "id": "932:31898",
+    "slug": "expiring-soon",
+    "filename": "expiring-soon.png"
+  },
+  {
+    "id": "932:32756",
+    "slug": "reinvest-not-met",
+    "filename": "reinvest-not-met.png"
+  },
+  {
+    "id": "932:31338",
+    "slug": "account-selection",
+    "filename": "account-selection.png"
+  },
+  {
+    "id": "932:30848",
+    "slug": "faq-expanded",
+    "filename": "faq-expanded.png"
+  },
+  {
+    "id": "932:31224",
+    "slug": "currency-dropdown",
+    "filename": "currency-dropdown.png"
+  }
+]

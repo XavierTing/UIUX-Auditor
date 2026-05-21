@@ -1,0 +1,26 @@
+{
+  "source": "Figma",
+  "file_key": "pJuwdSGBCJvVtx6i77ytzM",
+  "file_name": "Precious Metal",
+  "root_section_id": "693:15517",
+  "platform": "Web Desktop (corporate banking)",
+  "personas": ["Novice precious-metal investor (corporate customer)", "Experienced precious-metal investor (corporate customer)"],
+  "frame_dimensions": "1600 px wide native (forms), 602 px wide (email templates)",
+  "audit_scope_note": "The Figma frame names in this section ('Day 1 - Add/delete users', 'Renew landing - uploaded file') are template/working titles that do not reflect actual content. The visible content is a variant set of the Precious Metals Buy/Sell trade flow, with new content for: (a) new-account-creation on first buy, (b) cross-currency sell (XAU → USD), (c) insufficient-holdings warning state, (d) account-opened acknowledgement variant. This audit reports what is on the pixels.",
+  "screens": [
+    {"slug": "overview-empty", "node_id": "693:15724", "bucket": "Overview", "role": "Precious Metals overview — empty holdings, illustration + 'Start trading' link"},
+    {"slug": "overview-populated", "node_id": "693:15820", "bucket": "Overview", "role": "Precious Metals overview — populated holdings + Recent orders table"},
+    {"slug": "buy-form-new-account", "node_id": "693:15518", "bucket": "Buy", "role": "Buy form — new-account-creation variant ('New [Precious Metal Account] will be created')"},
+    {"slug": "buy-form-existing-account", "node_id": "693:16871", "bucket": "Buy", "role": "Buy form — existing account variant"},
+    {"slug": "sell-form-insufficient-holdings", "node_id": "693:16640", "bucket": "Sell", "role": "Sell form — inline warning 'Quantity exceeds available holdings'"},
+    {"slug": "sell-form-cross-currency", "node_id": "693:17236", "bucket": "Sell", "role": "Sell form — cross-currency (XAU → USD credit account)"},
+    {"slug": "buy-review", "node_id": "693:17598", "bucket": "Review", "role": "Buy review (existing-account flow)"},
+    {"slug": "buy-review-new-account", "node_id": "693:17708", "bucket": "Review", "role": "Buy review with 'A new [Precious Metals account] will be opened' info banner"},
+    {"slug": "sell-review", "node_id": "693:17819", "bucket": "Review", "role": "Sell review"},
+    {"slug": "buy-ack-expanded", "node_id": "693:17929", "bucket": "Acknowledgement", "role": "Buy success — expanded order details"},
+    {"slug": "buy-ack-account-opened", "node_id": "693:17995", "bucket": "Acknowledgement", "role": "Buy success + 'Your Precious Metals account has been opened' panel"},
+    {"slug": "buy-ack-collapsed", "node_id": "693:18130", "bucket": "Acknowledgement", "role": "Buy success — collapsed summary"},
+    {"slug": "email-buy-confirmation", "node_id": "693:18228", "bucket": "Email", "role": "Email template — Buy order confirmed"},
+    {"slug": "email-sell-confirmation", "node_id": "693:18266", "bucket": "Email", "role": "Email template — Sell order confirmed"}
+  ]
+}
