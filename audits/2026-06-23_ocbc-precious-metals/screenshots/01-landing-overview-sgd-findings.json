@@ -1,0 +1,16 @@
+[
+  {
+    "number": 4,
+    "severity": "high",
+    "x": 760,
+    "y": 1010,
+    "label": "Upside-only marketing, no downside"
+  },
+  {
+    "number": 5,
+    "severity": "high",
+    "x": 200,
+    "y": 1470,
+    "label": "Risk buried in collapsed FAQ"
+  }
+]

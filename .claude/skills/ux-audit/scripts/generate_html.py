@@ -153,6 +153,9 @@ def build_html(audit_dir, output_file):
                             "recommendation": full.get("recommendation", ""),
                             "screen": full.get("screen", ""),
                             "dimension": full.get("dimension", ""),
+                            "novice_impact": full.get("novice_impact", ""),
+                            "seasoned_impact": full.get("seasoned_impact", ""),
+                            "persona_classification": full.get("persona_classification", ""),
                         }
                     )
 
@@ -192,9 +195,18 @@ def build_html(audit_dir, output_file):
     severity_order = {"critical": 0, "high": 1, "medium": 2, "low": 3}
     sorted_findings = sorted(findings, key=lambda x: severity_order.get(x.get("severity", "low"), 4))
 
+    # Detect multi-persona audit (any finding carries per-persona impact)
+    multi_persona = any(f.get("novice_impact") or f.get("seasoned_impact") for f in findings)
+
     findings_rows = ""
     for f in sorted_findings:
         sev = f.get("severity", "medium")
+        persona_cells = ""
+        if multi_persona:
+            persona_cells = (
+                f"<td class=\"impact-novice\">{f.get('novice_impact', '')}</td>"
+                f"<td class=\"impact-seasoned\">{f.get('seasoned_impact', '')}</td>"
+            )
         findings_rows += f"""
         <tr class="finding-row" data-severity="{sev}">
             <td class="finding-num">#{f['number']}</td>
@@ -202,6 +214,7 @@ def build_html(audit_dir, output_file):
             <td>{f.get('dimension', '')}</td>
             <td><span class="severity-badge severity-{sev}">{sev.upper()}</span></td>
             <td>{f.get('finding', '')}</td>
+            {persona_cells}
             <td class="recommendation">{f.get('recommendation', '')}</td>
         </tr>"""
 
@@ -218,6 +231,7 @@ def build_html(audit_dir, output_file):
                     <span class="finding-badge" style="background: {severity_color(sev)};">#{sf['number']}</span>
                     <span class="severity-tag severity-{sev}">{sev.upper()}</span>
                     <span class="finding-text">{sf.get('finding', sf.get('label', ''))}</span>
+                    {f'<div class="finding-persona"><span><strong>Novice:</strong> {sf.get("novice_impact","")}</span><span><strong>Experienced:</strong> {sf.get("seasoned_impact","")}</span></div>' if (sf.get('novice_impact') or sf.get('seasoned_impact')) else ''}
                     <div class="finding-rec">→ {sf.get('recommendation', '')}</div>
                 </div>"""
 
@@ -380,6 +394,9 @@ def build_html(audit_dir, output_file):
   .finding-num {{ font-family: var(--mono); font-variant-numeric: tabular-nums; font-weight: 500; white-space: nowrap; color: var(--muted); }}
   .recommendation {{ color: var(--muted); font-size: 14px; }}
 
+  .findings-table td.impact-novice, .findings-table td.impact-seasoned {{ font-size: 13px; color: var(--muted); }}
+  .finding-persona {{ display: flex; flex-direction: column; gap: 4px; margin: 8px 0 2px; font-size: 12.5px; line-height: 1.45; color: var(--muted); }}
+  .finding-persona strong {{ color: var(--text); font-weight: 600; }}
   /* Severity badges — outline pills */
   .severity-badge {{ display: inline-block; padding: 3px 10px; border-radius: 2px; font-family: var(--mono); font-size: 10px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; border: 1px solid; background: transparent; }}
   .severity-critical {{ color: var(--critical); border-color: var(--critical-border); background: var(--critical-bg); }}
@@ -493,7 +510,7 @@ def build_html(audit_dir, output_file):
     <div style="overflow-x: auto;">
       <table class="findings-table">
         <thead>
-          <tr><th>#</th><th>Screen / Component</th><th>Dimension</th><th>Severity</th><th>Finding</th><th>Recommendation</th></tr>
+          <tr><th>#</th><th>Screen / Component</th><th>Dimension</th><th>Severity</th><th>Finding</th>{'<th>Novice Impact</th><th>Experienced Impact</th>' if multi_persona else ''}<th>Recommendation</th></tr>
         </thead>
         <tbody>{findings_rows}</tbody>
       </table>

@@ -1,0 +1,23 @@
+[
+  {
+    "number": 9,
+    "severity": "high",
+    "x": 180,
+    "y": 150,
+    "label": "Looks like Review; money moved?"
+  },
+  {
+    "number": 15,
+    "severity": "medium",
+    "x": 1050,
+    "y": 470,
+    "label": "Jargon undefined: Filled, Credit acct"
+  },
+  {
+    "number": 21,
+    "severity": "medium",
+    "x": 600,
+    "y": 1080,
+    "label": "Dead-end: no sell/download/alert"
+  }
+]

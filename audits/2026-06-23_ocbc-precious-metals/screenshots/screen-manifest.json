@@ -1,0 +1,29 @@
+{
+  "product": "OCBC Precious Metals Module (Business/Corporate Internet Banking)",
+  "platform": "Desktop web (1600px); email mockups 702px; push notifications 375px mobile",
+  "figma_file_key": "pJuwdSGBCJvVtx6i77ytzM",
+  "board_node": "1106:21058",
+  "captured_date": "2026-06-23",
+  "note": "File contains 49 real screen frames with heavy currency/state duplication. Captured set below is the de-duplicated representative coverage across all flows. Variant counts noted.",
+  "screens": [
+    {"file": "01-landing-overview-sgd.png", "node": "1106:25358", "flow": "Pre-Investment Landing", "title": "Overview / Market landing (SGD/ounce)", "variants": "SGD + USD currency variants"},
+    {"file": "02-landing-overview-usd.png", "node": "1106:25456", "flow": "Pre-Investment Landing", "title": "Overview / Market landing (USD/ounce)", "variants": "currency variant of 01"},
+    {"file": "03-buy-trade-input.png", "node": "1106:21758", "flow": "Invest", "title": "Buy trade input (empty)", "variants": "~17 'Day 1'/'expanded' state variants"},
+    {"file": "18-buy-input-filled.png", "node": "1106:23899-area", "flow": "Invest", "title": "Buy trade input (filled, show available balance, new-account note)", "variants": "filled state of buy input"},
+    {"file": "19-sell-trade-input.png", "node": "1106:22053", "flow": "Invest", "title": "Sell trade input (filled)", "variants": "sell-side mirror of buy input"},
+    {"file": "04-review-buy-order.png", "node": "1106:23125", "flow": "Invest", "title": "Review buy order (with T&C declaration)", "variants": "3 review variants (23125/23235/23346)"},
+    {"file": "10-modal-acknowledgement.png", "node": "1106:25350", "flow": "Invest", "title": "Modal - Acknowledgement (trading temporarily unavailable / maintenance)", "variants": "4 acknowledgement modal instances"},
+    {"file": "16-confirmation-success.png", "node": "1106:23456", "flow": "Invest", "title": "Confirmation - Buy order filled successfully (expanded)", "variants": "9 'expanded' state variants"},
+    {"file": "05-trade-detail-confirmation.png", "node": "1106:25835", "flow": "Post-Investment", "title": "Trade detail (order Filled, full record)", "variants": "styled reference"},
+    {"file": "06-trade-history.png", "node": "1106:23899", "flow": "Post-Investment", "title": "Trade history (filterable table + download)", "variants": "Trade history tab"},
+    {"file": "07-dashboard-holdings.png", "node": "1106:24704", "flow": "Post-Investment", "title": "Dashboard with holdings (tall)", "variants": "7 'Dashboard - default' variants"},
+    {"file": "08-dashboard-default.png", "node": "1106:24379", "flow": "Post-Investment", "title": "Dashboard default", "variants": "dashboard variant"},
+    {"file": "14-post-investment-landing.png", "node": "1106:21265", "flow": "Post-Investment", "title": "Post-investment landing (holdings + recent trades + FAQ)", "variants": "renew landing"},
+    {"file": "09-set-price-alert.png", "node": "1106:25279", "flow": "Price Alert", "title": "Set price alert (target price input, % above/below indicative)", "variants": "section spec"},
+    {"file": "12-push-noti-rate-reached.png", "node": "1106:25094", "flow": "Notifications", "title": "Push notification - price target reached", "variants": "2 push variants"},
+    {"file": "13-email-noti.png", "node": "1106:23744", "flow": "Notifications", "title": "Email - buy order confirmed", "variants": "6 email mockups (confirmations + alerts)"},
+    {"file": "15-terms-and-conditions.png", "node": "1106:25713", "flow": "Invest", "title": "Terms & Conditions screen", "variants": "T&C"},
+    {"file": "11-error-banner-specs.png", "node": "1106:25221", "flow": "Error/Edge specs", "title": "Error scenario inline banners (insufficient balance, below min)", "variants": "section spec"},
+    {"file": "17-exceed-market-value.png", "node": "1106:25277", "flow": "Error/Edge specs", "title": "Exceed market value banner", "variants": "section spec"}
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "number": 26,
+    "severity": "low",
+    "x": 800,
+    "y": 300,
+    "label": "Success message under-emphasised"
+  },
+  {
+    "number": 8,
+    "severity": "high",
+    "x": 800,
+    "y": 230,
+    "label": "No processing state precedes this"
+  },
+  {
+    "number": 24,
+    "severity": "medium",
+    "x": 450,
+    "y": 985,
+    "label": "Back link vs button inconsistency"
+  },
+  {
+    "number": 21,
+    "severity": "medium",
+    "x": 1180,
+    "y": 985,
+    "label": "No 'place another trade'"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "number": 10,
+    "severity": "high",
+    "x": 1180,
+    "y": 330,
+    "label": "Buy/Sell colour-only; red overloaded"
+  }
+]

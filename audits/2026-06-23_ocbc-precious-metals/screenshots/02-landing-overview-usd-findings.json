@@ -1,0 +1,9 @@
+[
+  {
+    "number": 11,
+    "severity": "high",
+    "x": 1180,
+    "y": 360,
+    "label": "Currency unit can switch silently"
+  }
+]

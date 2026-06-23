@@ -1,0 +1,16 @@
+[
+  {
+    "number": 18,
+    "severity": "medium",
+    "x": 1180,
+    "y": 330,
+    "label": "New-account message redundant"
+  },
+  {
+    "number": 20,
+    "severity": "medium",
+    "x": 1180,
+    "y": 640,
+    "label": "Grey-on-grey labels; 0.00 ambiguity"
+  }
+]

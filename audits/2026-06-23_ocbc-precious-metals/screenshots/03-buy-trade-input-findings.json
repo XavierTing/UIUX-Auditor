@@ -1,0 +1,30 @@
+[
+  {
+    "number": 2,
+    "severity": "critical",
+    "x": 1180,
+    "y": 720,
+    "label": "Error/validation states not on live screen"
+  },
+  {
+    "number": 7,
+    "severity": "high",
+    "x": 300,
+    "y": 560,
+    "label": "Stale/conflicting price timestamp"
+  },
+  {
+    "number": 14,
+    "severity": "medium",
+    "x": 1370,
+    "y": 1230,
+    "label": "Weak, buried grey primary CTA"
+  },
+  {
+    "number": 17,
+    "severity": "medium",
+    "x": 1180,
+    "y": 840,
+    "label": "Unlabeled amount/quantity swap"
+  }
+]

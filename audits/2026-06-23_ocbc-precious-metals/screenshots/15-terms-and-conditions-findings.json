@@ -1,0 +1,16 @@
+[
+  {
+    "number": 1,
+    "severity": "critical",
+    "x": 800,
+    "y": 450,
+    "label": "Risk: T&Cs not openable, no KFS"
+  },
+  {
+    "number": 18,
+    "severity": "medium",
+    "x": 800,
+    "y": 300,
+    "label": "Duplicate account-creation message"
+  }
+]

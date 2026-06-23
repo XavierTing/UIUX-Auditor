@@ -1,0 +1,9 @@
+[
+  {
+    "number": 6,
+    "severity": "high",
+    "x": 190,
+    "y": 215,
+    "label": "Leaked delimiters <...SGD/ounce>"
+  }
+]

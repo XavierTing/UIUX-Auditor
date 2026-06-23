@@ -1,0 +1,16 @@
+[
+  {
+    "number": 2,
+    "severity": "critical",
+    "x": 370,
+    "y": 270,
+    "label": "Error states only as spec frames"
+  },
+  {
+    "number": 19,
+    "severity": "medium",
+    "x": 1050,
+    "y": 210,
+    "label": "Blocking vs warning look identical"
+  }
+]

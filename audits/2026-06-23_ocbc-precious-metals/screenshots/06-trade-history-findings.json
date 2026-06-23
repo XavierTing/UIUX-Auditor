@@ -1,0 +1,16 @@
+[
+  {
+    "number": 11,
+    "severity": "high",
+    "x": 1060,
+    "y": 700,
+    "label": "SGD/USD/EUR mixed in rows"
+  },
+  {
+    "number": 22,
+    "severity": "medium",
+    "x": 300,
+    "y": 700,
+    "label": "Number/unit/account format drift"
+  }
+]

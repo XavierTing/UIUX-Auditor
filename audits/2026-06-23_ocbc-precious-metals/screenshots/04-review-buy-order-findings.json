@@ -1,0 +1,44 @@
+[
+  {
+    "number": 9,
+    "severity": "high",
+    "x": 180,
+    "y": 270,
+    "label": "Review vs Trade-detail near-identical"
+  },
+  {
+    "number": 3,
+    "severity": "high",
+    "x": 1180,
+    "y": 300,
+    "label": "Indicative vs execution price gap"
+  },
+  {
+    "number": 16,
+    "severity": "medium",
+    "x": 780,
+    "y": 150,
+    "label": "No step indicator / header drift"
+  },
+  {
+    "number": 12,
+    "severity": "high",
+    "x": 760,
+    "y": 850,
+    "label": "Cold liability-only copy at confirm"
+  },
+  {
+    "number": 23,
+    "severity": "medium",
+    "x": 600,
+    "y": 985,
+    "label": "Ambiguous 'Back' (discard or edit?)"
+  },
+  {
+    "number": 8,
+    "severity": "high",
+    "x": 1410,
+    "y": 985,
+    "label": "No loading state on submit"
+  }
+]
